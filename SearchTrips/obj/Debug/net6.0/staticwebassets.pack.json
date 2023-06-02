@@ -1,0 +1,1133 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\css\\car.css",
+      "PackagePath": "staticwebassets\\css\\car.css"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\css\\dashboard.css",
+      "PackagePath": "staticwebassets\\css\\dashboard.css"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\css\\flight.css",
+      "PackagePath": "staticwebassets\\css\\flight.css"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\css\\hotel.css",
+      "PackagePath": "staticwebassets\\css\\hotel.css"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\css\\icons.css",
+      "PackagePath": "staticwebassets\\css\\icons.css"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\css\\plugin.css",
+      "PackagePath": "staticwebassets\\css\\plugin.css"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\Flaticond41d.eot",
+      "PackagePath": "staticwebassets\\font\\Flaticond41d.eot"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\Simple-Line-Iconsc05f.ttf",
+      "PackagePath": "staticwebassets\\font\\Simple-Line-Iconsc05f.ttf"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\Simple-Line-Iconsc05f.woff",
+      "PackagePath": "staticwebassets\\font\\Simple-Line-Iconsc05f.woff"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\font\\flaticon.css"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\iconsmindca27.eot",
+      "PackagePath": "staticwebassets\\font\\iconsmindca27.eot"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\iconsmindca27.svg",
+      "PackagePath": "staticwebassets\\font\\iconsmindca27.svg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\iconsmindca27.ttf",
+      "PackagePath": "staticwebassets\\font\\iconsmindca27.ttf"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\iconsmindca27.woff",
+      "PackagePath": "staticwebassets\\font\\iconsmindca27.woff"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\iconsmindd41d.eot",
+      "PackagePath": "staticwebassets\\font\\iconsmindd41d.eot"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\simple-line-icons.eot\\indexc05f.html",
+      "PackagePath": "staticwebassets\\font\\simple-line-icons.eot\\indexc05f.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\simple-line-icons.svg\\indexc05f.html",
+      "PackagePath": "staticwebassets\\font\\simple-line-icons.svg\\indexc05f.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\fonts\\fontawesome-webfont.eot\\index.html",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot\\index.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\fonts\\fontawesome-webfont.eot\\index5b62.html",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot\\index5b62.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\fonts\\fontawesome-webfont.svg\\index5b62.html",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg\\index5b62.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\fonts\\fontawesome-webfont.ttf\\index5b62.html",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf\\index5b62.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\fonts\\fontawesome-webfont.woff2\\index5b62.html",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2\\index5b62.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\fonts\\fontawesome-webfont.woff\\index5b62.html",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff\\index5b62.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\fonts\\ionicons28b528b5.eot\\index28b5.html",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b528b5.eot\\index28b5.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\fonts\\ionicons28b528b5.svg\\index28b5.html",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b528b5.svg\\index28b5.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\fonts\\ionicons28b528b5.ttf\\index28b5.html",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b528b5.ttf\\index28b5.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\fonts\\ionicons28b528b5.woff\\index28b5.html",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b528b5.woff\\index28b5.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\adbg.jpg",
+      "PackagePath": "staticwebassets\\images\\adbg.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\bucketbg.jpg",
+      "PackagePath": "staticwebassets\\images\\bucketbg.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\dealsbg.jpg",
+      "PackagePath": "staticwebassets\\images\\dealsbg.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Amar-Mahal.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\jammu\\Amar-Mahal.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Bagh-e-Bahu.jpg",
+      "PackagePath": "staticwebassets\\images\\destinations\\jammu\\Bagh-e-Bahu.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Bahu-Fort.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\jammu\\Bahu-Fort.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Dogra-Art-Gallery.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\jammu\\Dogra-Art-Gallery.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Manda-Zoo.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\jammu\\Manda-Zoo.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Mubarak-Mandi-Palace.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\jammu\\Mubarak-Mandi-Palace.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Rajender-Park.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\jammu\\Rajender-Park.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Rani-Park.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\jammu\\Rani-Park.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\Aharbal.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\kashmir\\Aharbal.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\Betaab-valley.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\kashmir\\Betaab-valley.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\Doodpathri.jpg",
+      "PackagePath": "staticwebassets\\images\\destinations\\kashmir\\Doodpathri.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\Kokernag.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\kashmir\\Kokernag.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\Shankaracharya-Temple.jpg",
+      "PackagePath": "staticwebassets\\images\\destinations\\kashmir\\Shankaracharya-Temple.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\Tulip.jpg",
+      "PackagePath": "staticwebassets\\images\\destinations\\kashmir\\Tulip.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\amarnath.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\kashmir\\amarnath.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\chashma.jpg",
+      "PackagePath": "staticwebassets\\images\\destinations\\kashmir\\chashma.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\dal-lake.jpg",
+      "PackagePath": "staticwebassets\\images\\destinations\\kashmir\\dal-lake.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\gulmarg.jpg",
+      "PackagePath": "staticwebassets\\images\\destinations\\kashmir\\gulmarg.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\hazratbal.jpg",
+      "PackagePath": "staticwebassets\\images\\destinations\\kashmir\\hazratbal.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\jammu.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\kashmir\\jammu.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\manasbal.jpg",
+      "PackagePath": "staticwebassets\\images\\destinations\\kashmir\\manasbal.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\nishat.jpg",
+      "PackagePath": "staticwebassets\\images\\destinations\\kashmir\\nishat.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\pahalgam.jpg",
+      "PackagePath": "staticwebassets\\images\\destinations\\kashmir\\pahalgam.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\parimahal.jpg",
+      "PackagePath": "staticwebassets\\images\\destinations\\kashmir\\parimahal.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\patnitop.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\kashmir\\patnitop.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\shalimar.jpg",
+      "PackagePath": "staticwebassets\\images\\destinations\\kashmir\\shalimar.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\sonmarg.jpg",
+      "PackagePath": "staticwebassets\\images\\destinations\\kashmir\\sonmarg.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\katra\\BABA-DHANSAR.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\katra\\BABA-DHANSAR.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\katra\\JHAJJAR-KOTLI.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\katra\\JHAJJAR-KOTLI.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\katra\\MATA-VAISHNU.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\katra\\MATA-VAISHNU.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\katra\\NAU-DEVI-CAVE.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\katra\\NAU-DEVI-CAVE.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\katra\\SHIVKHORI.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\katra\\SHIVKHORI.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\ladakh\\Kargil.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\ladakh\\Kargil.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\ladakh\\Khardungla.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\ladakh\\Khardungla.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\ladakh\\Magnetic.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\ladakh\\Magnetic.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\ladakh\\Nubra.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\ladakh\\Nubra.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\ladakh\\Pangong.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\ladakh\\Pangong.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\ladakh\\Shanti-Stupa.jpeg",
+      "PackagePath": "staticwebassets\\images\\destinations\\ladakh\\Shanti-Stupa.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\About-Us.jpg",
+      "PackagePath": "staticwebassets\\images\\headers\\About-Us.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\back.jpg",
+      "PackagePath": "staticwebassets\\images\\headers\\back.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\contact-us.jpg",
+      "PackagePath": "staticwebassets\\images\\headers\\contact-us.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\gulmarg.jpeg",
+      "PackagePath": "staticwebassets\\images\\headers\\gulmarg.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\dallake.jpg",
+      "PackagePath": "staticwebassets\\images\\headers\\hotels\\dallake.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\gulmarg.jpeg",
+      "PackagePath": "staticwebassets\\images\\headers\\hotels\\gulmarg.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\jammu.jpg",
+      "PackagePath": "staticwebassets\\images\\headers\\hotels\\jammu.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\katra.jpeg",
+      "PackagePath": "staticwebassets\\images\\headers\\hotels\\katra.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\leh.jpg",
+      "PackagePath": "staticwebassets\\images\\headers\\hotels\\leh.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\nigeen.jpeg",
+      "PackagePath": "staticwebassets\\images\\headers\\hotels\\nigeen.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\nubra.jpeg",
+      "PackagePath": "staticwebassets\\images\\headers\\hotels\\nubra.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\pahalgham.jpeg",
+      "PackagePath": "staticwebassets\\images\\headers\\hotels\\pahalgham.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\pangong.jpg",
+      "PackagePath": "staticwebassets\\images\\headers\\hotels\\pangong.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\patnitop.jpg",
+      "PackagePath": "staticwebassets\\images\\headers\\hotels\\patnitop.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\sonamarg.jpg",
+      "PackagePath": "staticwebassets\\images\\headers\\hotels\\sonamarg.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\srinagar.jpeg",
+      "PackagePath": "staticwebassets\\images\\headers\\hotels\\srinagar.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\houseboat.jpeg",
+      "PackagePath": "staticwebassets\\images\\headers\\houseboat.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\jammu.jpeg",
+      "PackagePath": "staticwebassets\\images\\headers\\jammu.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\katra.jpg",
+      "PackagePath": "staticwebassets\\images\\headers\\katra.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\ladakh.jpg",
+      "PackagePath": "staticwebassets\\images\\headers\\ladakh.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\packages\\amarnath.jpeg",
+      "PackagePath": "staticwebassets\\images\\headers\\packages\\amarnath.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\packages\\jammu.jpeg",
+      "PackagePath": "staticwebassets\\images\\headers\\packages\\jammu.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\packages\\kashmir.jpg",
+      "PackagePath": "staticwebassets\\images\\headers\\packages\\kashmir.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\packages\\katra.jpeg",
+      "PackagePath": "staticwebassets\\images\\headers\\packages\\katra.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\packages\\katra.jpg",
+      "PackagePath": "staticwebassets\\images\\headers\\packages\\katra.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\packages\\ladakh.jpg",
+      "PackagePath": "staticwebassets\\images\\headers\\packages\\ladakh.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\packages\\p.jpeg",
+      "PackagePath": "staticwebassets\\images\\headers\\packages\\p.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\packages\\p.jpg",
+      "PackagePath": "staticwebassets\\images\\headers\\packages\\p.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\packages\\patnitop.jpeg",
+      "PackagePath": "staticwebassets\\images\\headers\\packages\\patnitop.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\pahalgham.jpeg",
+      "PackagePath": "staticwebassets\\images\\headers\\pahalgham.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\patnitop.jpeg",
+      "PackagePath": "staticwebassets\\images\\headers\\patnitop.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\rahvillas.jpg",
+      "PackagePath": "staticwebassets\\images\\headers\\rahvillas.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\sonamarg.jpeg",
+      "PackagePath": "staticwebassets\\images\\headers\\sonamarg.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\srinagar.jpeg",
+      "PackagePath": "staticwebassets\\images\\headers\\srinagar.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\amarnath.jpeg",
+      "PackagePath": "staticwebassets\\images\\home\\amarnath.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\kashmir.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\kashmir.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\katra.png",
+      "PackagePath": "staticwebassets\\images\\home\\katra.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\khyber.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\khyber.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\ladakh.jpeg",
+      "PackagePath": "staticwebassets\\images\\home\\ladakh.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\orchad.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\orchad.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\packages\\couple-pack.jpeg",
+      "PackagePath": "staticwebassets\\images\\home\\packages\\couple-pack.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\packages\\event-pack.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\packages\\event-pack.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\packages\\family-pack.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\packages\\family-pack.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\packages\\group-pack.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\packages\\group-pack.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\packages\\kashmir.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\packages\\kashmir.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\packages\\ladakh.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\packages\\ladakh.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\packages\\mataveshnu.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\packages\\mataveshnu.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\AminaGroup.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\dallake\\AminaGroup.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\BulBul.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\dallake\\BulBul.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\Mandalay.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\dallake\\Mandalay.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\MonalisaGroup.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\dallake\\MonalisaGroup.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\MughalSheraton.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\dallake\\MughalSheraton.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\Plato.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\dallake\\Plato.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\SWAN-GROUP-HOUSEBOAT.webp",
+      "PackagePath": "staticwebassets\\images\\hotels\\dallake\\SWAN-GROUP-HOUSEBOAT.webp"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\YoungBombay.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\dallake\\YoungBombay.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\Rosewood.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\gulmarg\\Rosewood.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\ShawInn.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\gulmarg\\ShawInn.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\alpineridge.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\gulmarg\\alpineridge.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\grandmumtaz.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\gulmarg\\grandmumtaz.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\heavenresort.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\gulmarg\\heavenresort.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\hilltop.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\gulmarg\\hilltop.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\khaleel.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\gulmarg\\khaleel.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\kolahai.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\gulmarg\\kolahai.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\mamapalace.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\gulmarg\\mamapalace.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\royalpark.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\gulmarg\\royalpark.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\vintage.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\gulmarg\\vintage.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\jammu\\Asiaoneearth.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\jammu\\Asiaoneearth.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\jammu\\Clarksinnexpress.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\jammu\\Clarksinnexpress.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\jammu\\NewAshokaDiamond.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\jammu\\NewAshokaDiamond.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\jammu\\hotelAdityaResidence.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\jammu\\hotelAdityaResidence.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\jammu\\hotelRaghunath.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\jammu\\hotelRaghunath.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\jammu\\hotelsuryaexcellency.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\jammu\\hotelsuryaexcellency.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\katra\\atulRegency.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\katra\\atulRegency.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\katra\\devigrand.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\katra\\devigrand.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\katra\\evokelife.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\katra\\evokelife.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\katra\\kantainterrnational.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\katra\\kantainterrnational.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\katra\\katraanurag.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\katra\\katraanurag.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\katra\\newashyana.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\katra\\newashyana.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\ladakh\\ladakh2.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\ladakh\\ladakh2.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\ladakh\\ladakh3.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\ladakh\\ladakh3.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\ladakh\\ladakh4.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\ladakh\\ladakh4.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\ladakh\\ladakh6.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\ladakh\\ladakh6.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\ladakh\\ladakh7.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\ladakh\\ladakh7.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\nigeenlake\\Gurkha.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\nigeenlake\\Gurkha.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\nigeenlake\\Khilona-Heritage.jpeg",
+      "PackagePath": "staticwebassets\\images\\hotels\\nigeenlake\\Khilona-Heritage.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\nigeenlake\\Monarch.jpeg",
+      "PackagePath": "staticwebassets\\images\\hotels\\nigeenlake\\Monarch.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\nigeenlake\\New-Jacquline.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\nigeenlake\\New-Jacquline.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\nigeenlake\\Peacock.webp",
+      "PackagePath": "staticwebassets\\images\\hotels\\nigeenlake\\Peacock.webp"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\nigeenlake\\Wangnoo-Sheraton.jpeg",
+      "PackagePath": "staticwebassets\\images\\hotels\\nigeenlake\\Wangnoo-Sheraton.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\nubra\\Hotel-HillCrest.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\nubra\\Hotel-HillCrest.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\nubra\\Hotel-Karma-Inn.jpeg",
+      "PackagePath": "staticwebassets\\images\\hotels\\nubra\\Hotel-Karma-Inn.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\nubra\\Hotel-Nubra-Residency.png",
+      "PackagePath": "staticwebassets\\images\\hotels\\nubra\\Hotel-Nubra-Residency.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\nubra\\The-Kyagar.jpeg",
+      "PackagePath": "staticwebassets\\images\\hotels\\nubra\\The-Kyagar.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\nubra\\The-wooden-nest-hunder.jpeg",
+      "PackagePath": "staticwebassets\\images\\hotels\\nubra\\The-wooden-nest-hunder.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\EDENPAHALGAM.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\pahalgam\\EDENPAHALGAM.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\FLYINGBIRD.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\pahalgam\\FLYINGBIRD.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\GREENHEIGHTS.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\pahalgam\\GREENHEIGHTS.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\HEAVANRESORTS.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\pahalgam\\HEAVANRESORTS.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\HERMITAGE.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\pahalgam\\HERMITAGE.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\HILTOP.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\pahalgam\\HILTOP.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\HOME2.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\pahalgam\\HOME2.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\MOONVIEWRESORTS.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\pahalgam\\MOONVIEWRESORTS.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\PINES.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\pahalgam\\PINES.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\RIVERVIEWRESORTS.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\pahalgam\\RIVERVIEWRESORTS.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\ROYALHILTON.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\pahalgam\\ROYALHILTON.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\SRICHANRESORTS.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\pahalgam\\SRICHANRESORTS.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\WILDFLOWER.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\pahalgam\\WILDFLOWER.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\chinar.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\pahalgam\\chinar.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\kolihighgereen.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\pahalgam\\kolihighgereen.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pangong\\Hotel-Pangong-Residency.jpeg",
+      "PackagePath": "staticwebassets\\images\\hotels\\pangong\\Hotel-Pangong-Residency.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pangong\\Pangong-Gongma-Residency.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\pangong\\Pangong-Gongma-Residency.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pangong\\The-Horizon-Pangong.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\pangong\\The-Horizon-Pangong.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pangong\\The-Merak-Pangong.jpeg",
+      "PackagePath": "staticwebassets\\images\\hotels\\pangong\\The-Merak-Pangong.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pangong\\Wilderness-Retreat.jpeg",
+      "PackagePath": "staticwebassets\\images\\hotels\\pangong\\Wilderness-Retreat.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\patnitop\\Akash.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\patnitop\\Akash.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\patnitop\\Dreamland.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\patnitop\\Dreamland.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\patnitop\\Krystal.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\patnitop\\Krystal.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\patnitop\\OneEarthHeritage.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\patnitop\\OneEarthHeritage.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\patnitop\\StayApart.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\patnitop\\StayApart.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\patnitop\\Vardhanhotel.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\patnitop\\Vardhanhotel.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\sonamarg\\countryinn.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\sonamarg\\countryinn.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\sonamarg\\divineinn.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\sonamarg\\divineinn.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\sonamarg\\glacierheights.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\sonamarg\\glacierheights.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\sonamarg\\greenkohinoor.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\sonamarg\\greenkohinoor.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\sonamarg\\hotelakbar.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\sonamarg\\hotelakbar.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\sonamarg\\namrose.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\sonamarg\\namrose.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\sonamarg\\rahvillas.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\sonamarg\\rahvillas.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\ADLIFELUXURY.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\srinagar\\ADLIFELUXURY.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\CITYGRACE.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\srinagar\\CITYGRACE.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\K28INN.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\srinagar\\K28INN.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\ROYALBATAO.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\srinagar\\ROYALBATAO.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\RosePetalSrinagar.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\srinagar\\RosePetalSrinagar.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\SUNSHINE.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\srinagar\\SUNSHINE.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\THEVALLEYVIEW.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\srinagar\\THEVALLEYVIEW.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\asainpark.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\srinagar\\asainpark.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\grandkaiser.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\srinagar\\grandkaiser.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\heritageluxury.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\srinagar\\heritageluxury.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\palmspring.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\srinagar\\palmspring.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\sixseason.jpg",
+      "PackagePath": "staticwebassets\\images\\hotels\\srinagar\\sixseason.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\icons\\fa\\facebook.png",
+      "PackagePath": "staticwebassets\\images\\icons\\fa\\facebook.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\icons\\fa\\instagram.png",
+      "PackagePath": "staticwebassets\\images\\icons\\fa\\instagram.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\icons\\fa\\whatsapp.png",
+      "PackagePath": "staticwebassets\\images\\icons\\fa\\whatsapp.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\icons\\fa\\youtube.png",
+      "PackagePath": "staticwebassets\\images\\icons\\fa\\youtube.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\icons\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\icons\\favicon.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\icons\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\icons\\logo.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\icons\\logo.png",
+      "PackagePath": "staticwebassets\\images\\icons\\logo.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\icons\\whatsapp.png",
+      "PackagePath": "staticwebassets\\images\\icons\\whatsapp.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\insta1.jpg",
+      "PackagePath": "staticwebassets\\images\\insta1.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\insta3.jpg",
+      "PackagePath": "staticwebassets\\images\\insta3.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\insta4.jpg",
+      "PackagePath": "staticwebassets\\images\\insta4.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\insta5.jpg",
+      "PackagePath": "staticwebassets\\images\\insta5.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\insta6.jpg",
+      "PackagePath": "staticwebassets\\images\\insta6.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\insta7.jpg",
+      "PackagePath": "staticwebassets\\images\\insta7.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\insta8.jpg",
+      "PackagePath": "staticwebassets\\images\\insta8.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\insta9.jpg",
+      "PackagePath": "staticwebassets\\images\\insta9.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\list6.jpg",
+      "PackagePath": "staticwebassets\\images\\list6.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\list7.jpg",
+      "PackagePath": "staticwebassets\\images\\list7.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\loader.gif"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\mount.png",
+      "PackagePath": "staticwebassets\\images\\mount.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\newssection-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\newssection-bg.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\package\\amarnath\\p1-a.jpeg",
+      "PackagePath": "staticwebassets\\images\\package\\amarnath\\p1-a.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\package\\amarnath\\p2-a.jpeg",
+      "PackagePath": "staticwebassets\\images\\package\\amarnath\\p2-a.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\package\\kashmir\\p1.jpeg",
+      "PackagePath": "staticwebassets\\images\\package\\kashmir\\p1.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\package\\kashmir\\p2.jpg",
+      "PackagePath": "staticwebassets\\images\\package\\kashmir\\p2.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\package\\kashmir\\p3.jpg",
+      "PackagePath": "staticwebassets\\images\\package\\kashmir\\p3.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\package\\kashmir\\p4.jpg",
+      "PackagePath": "staticwebassets\\images\\package\\kashmir\\p4.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\package\\katra\\p-katra.jpeg",
+      "PackagePath": "staticwebassets\\images\\package\\katra\\p-katra.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\package\\ladakh\\p1.jpg",
+      "PackagePath": "staticwebassets\\images\\package\\ladakh\\p1.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\package\\ladakh\\p2.jpg",
+      "PackagePath": "staticwebassets\\images\\package\\ladakh\\p2.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\package\\ladakh\\p3.jpg",
+      "PackagePath": "staticwebassets\\images\\package\\ladakh\\p3.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\package\\ladakh\\p4.jpeg",
+      "PackagePath": "staticwebassets\\images\\package\\ladakh\\p4.jpeg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\partner1.png",
+      "PackagePath": "staticwebassets\\images\\partner1.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\partner2.png",
+      "PackagePath": "staticwebassets\\images\\partner2.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\partner3.png",
+      "PackagePath": "staticwebassets\\images\\partner3.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\partner4.png",
+      "PackagePath": "staticwebassets\\images\\partner4.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\partner5.png",
+      "PackagePath": "staticwebassets\\images\\partner5.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\partner6.png",
+      "PackagePath": "staticwebassets\\images\\partner6.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\payment1.png",
+      "PackagePath": "staticwebassets\\images\\payment1.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\payment2.png",
+      "PackagePath": "staticwebassets\\images\\payment2.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\payment3.png",
+      "PackagePath": "staticwebassets\\images\\payment3.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\payment4.png",
+      "PackagePath": "staticwebassets\\images\\payment4.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\quote.png",
+      "PackagePath": "staticwebassets\\images\\quote.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\slider\\s1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\s1.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\slider\\s2.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\s2.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\slider\\s3.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\s3.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\slider\\s4.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\s4.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\chart.js",
+      "PackagePath": "staticwebassets\\js\\chart.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\counterup.min.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\custom-accordian.js",
+      "PackagePath": "staticwebassets\\js\\custom-accordian.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\custom-countdown.js",
+      "PackagePath": "staticwebassets\\js\\custom-countdown.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\custom-swiper2.js",
+      "PackagePath": "staticwebassets\\js\\custom-swiper2.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\custom-video.js",
+      "PackagePath": "staticwebassets\\js\\custom-video.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\dashboard-custom.js",
+      "PackagePath": "staticwebassets\\js\\dashboard-custom.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\jpanelmenu.min.js",
+      "PackagePath": "staticwebassets\\js\\jpanelmenu.min.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\jquery-modal-video.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-modal-video.min.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\main-1.js",
+      "PackagePath": "staticwebassets\\js\\main-1.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\map.js",
+      "PackagePath": "staticwebassets\\js\\map.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\js\\plugin.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\preloader.js",
+      "PackagePath": "staticwebassets\\js\\preloader.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\rangeslider.js",
+      "PackagePath": "staticwebassets\\js\\rangeslider.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SearchTrips.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SearchTrips.props",
+      "PackagePath": "build\\SearchTrips.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SearchTrips.props",
+      "PackagePath": "buildMultiTargeting\\SearchTrips.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SearchTrips.props",
+      "PackagePath": "buildTransitive\\SearchTrips.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

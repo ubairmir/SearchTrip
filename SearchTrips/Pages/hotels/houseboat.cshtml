@@ -1,0 +1,78 @@
+﻿@page
+@{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Houseboat";
+}
+
+<section class="breadcrumb-outer text-center" style="background: url(../images/slider/s4.jpg); background-position:center;background-position-x: right;"
+>
+    <div class="container">
+        <div class="breadcrumb-content">
+            <h2>@ViewData["Title"]</h2>
+            <nav aria-label="breadcrumb">
+                <ul class="breadcrumb justify-content-center">
+                    <li class="breadcrumb-item"><a href="/">Home</a></li>
+                    <li class="breadcrumb-item"><a href="/hotels">Hotels</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">@ViewData["Title"]</li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div class="section-overlay"></div>
+</section>
+
+
+<section class="popular-packages pad-bottom-80 mt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div class="package-item">
+                    <img src="~/images/hotels/dallake/MonalisaGroup.jpg" style="height: 196px;" alt="MONALISA GROUP">
+                    <div class="package-content">
+                        <h3><a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom">MONALISA GROUP</a></h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="package-item">
+                    <img src="~/images/hotels/dallake/MughalSheraton.jpg" style="height: 196px;" alt="The Mughal Palace">
+                    <div class="package-content">
+                        <h3><a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom">The Mughal Palace</a></h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="package-item">
+                    <img src="~/images/hotels/dallake/SWAN-GROUP-HOUSEBOAT.webp" style="height: 196px;" alt="SWAN GROUP">
+                    <div class="package-content">
+                        <h3><a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom">SWAN GROUP</a></h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="package-item">
+                    <img src="~/images/hotels/dallake/YoungBombay.jpg" style="height: 196px;" alt="YOUNG BOMBAY">
+                    <div class="package-content">
+                        <h3><a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom">YOUNG BOMBAY</a></h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="package-item">
+                    <img src="~/images/hotels/nigeenlake/Peacock.webp" style="height: 196px;" alt="Peacock">
+                    <div class="package-content">
+                        <h3><a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom">Peacock</a></h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="package-item">
+                    <img src="~/images/hotels/nigeenlake/gurkha.jpg" style="height: 196px;" alt="Gurkha">
+                    <div class="package-content">
+                        <h3><a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom">Gurkha</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

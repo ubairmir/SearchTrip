@@ -1,0 +1,77 @@
+﻿@page
+@{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Patnitop";
+}
+
+<section class="breadcrumb-outer text-center" style="background: url(../images/slider/s4.jpg); background-position:center;background-position-x: right;">
+    <div class="container">
+        <div class="breadcrumb-content">
+            <h2>@ViewData["Title"]</h2>
+            <nav aria-label="breadcrumb">
+                <ul class="breadcrumb justify-content-center">
+                    <li class="breadcrumb-item"><a href="/">Home</a></li>
+                    <li class="breadcrumb-item"><a href="/hotels">Hotels</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">@ViewData["Title"]</li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div class="section-overlay"></div>
+</section>
+
+
+<section class="popular-packages pad-bottom-80 mt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div class="package-item">
+                    <img src="~/images/hotels/patnitop/Dreamland.jpg" style="height: 196px;" alt="DREAMLAND">
+                    <div class="package-content">
+                        <h3><a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom">DREAMLAND</a></h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="package-item">
+                    <img src="~/images/hotels/patnitop/Krystal.jpg" style="height: 196px;" alt="THE KRYSTAL BY">
+                    <div class="package-content">
+                        <h3><a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom">THE KRYSTAL BY</a></h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="package-item">
+                    <img src="~/images/hotels/patnitop/Akash.jpg" style="height: 196px;" alt="THE AKASH BY LAVI">
+                    <div class="package-content">
+                        <h3><a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom">THE AKASH BY LAVI</a></h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="package-item">
+                    <img src="~/images/hotels/patnitop/OneEarthHeritage.jpg" style="height: 196px;" alt="ONE EARTH">
+                    <div class="package-content">
+                        <h3><a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom">ONE EARTH</a></h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="package-item">
+                    <img src="~/images/hotels/patnitop/StayApart.jpg" style="height: 196px;" alt="STAY APPART">
+                    <div class="package-content">
+                        <h3><a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom">STAY APPART</a></h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="package-item">
+                    <img src="~/images/hotels/patnitop/Vardhanhotel.jpg" style="height: 196px;" alt="VARDHAN HOTEL">
+                    <div class="package-content">
+                        <h3><a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom">VARDHAN HOTEL</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

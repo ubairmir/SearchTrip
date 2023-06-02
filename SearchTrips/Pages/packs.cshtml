@@ -1,0 +1,71 @@
+﻿@page
+@{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Packages";
+}
+
+<section class="breadcrumb-outer text-center" >
+    <div class="container">
+        <div class="breadcrumb-content">
+            <h2>@ViewData["Title"]</h2>
+            <nav aria-label="breadcrumb justify-content-center">
+                <ul class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="/">Home</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">@ViewData["Title"]</li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div class="section-overlay"></div>
+</section>
+
+<section class="destinations destination-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6">
+                <div class="destination-item">
+                    <div class="destination-image">
+                        <img src="~/images/headers/packages/kashmir.jpg" style="height: 390px;" alt="Kashmir">
+                        <div class="destination-overlay"></div>
+                        <div class="destination-btn">
+                            <a href="/packs/kashmir" class="btn-blue btn-red">Explore Kashmir</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6">
+                <div class="destination-item">
+                    <div class="destination-image">
+                        <img src="~/images/headers/packages/ladakh.jpg" style="height: 390px;" alt="Image">
+                        <div class="destination-overlay"></div>
+                        <div class="destination-btn">
+                            <a href="/packs/ladakh" class="btn-blue btn-red">Explore Ladakh</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6">
+                <div class="destination-item">
+                    <div class="destination-image">
+                        <img src="~/images/headers/packages/amarnath.jpeg" style="height: 390px;" alt="Jammu">
+                        <div class="destination-overlay"></div>
+                        <div class="destination-btn">
+                            <a href="/packs/amarnath" class="btn-blue btn-red">Explore Amarnath</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6">
+                <div class="destination-item">
+                    <div class="destination-image">
+                        <img src="~/images/headers/packages/katra.jpeg" style="height: 390px;" alt="Katra">
+                        <div class="destination-overlay"></div>
+                        <div class="destination-btn">
+                            <a href="/packs/katra" class="btn-blue btn-red">Explore Katra</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

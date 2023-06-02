@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\font\Flaticon.svg" />
+    <None Include="wwwroot\font\iconsmindca27.svg" />
+    <None Include="wwwroot\js\bootstrap.min.js" />
+    <None Include="wwwroot\js\chart.js" />
+    <None Include="wwwroot\js\counterup.min.js" />
+    <None Include="wwwroot\js\custom-accordian.js" />
+    <None Include="wwwroot\js\custom-countdown.js" />
+    <None Include="wwwroot\js\custom-swiper2.js" />
+    <None Include="wwwroot\js\custom-video.js" />
+    <None Include="wwwroot\js\dashboard-custom.js" />
+    <None Include="wwwroot\js\jpanelmenu.min.js" />
+    <None Include="wwwroot\js\jquery-3.2.1.min.js" />
+    <None Include="wwwroot\js\jquery-modal-video.min.js" />
+    <None Include="wwwroot\js\main-1.js" />
+    <None Include="wwwroot\js\main.js" />
+    <None Include="wwwroot\js\map.js" />
+    <None Include="wwwroot\js\plugin.js" />
+    <None Include="wwwroot\js\preloader.js" />
+    <None Include="wwwroot\js\rangeslider.js" />
+  </ItemGroup>
+
+</Project>

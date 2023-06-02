@@ -1,0 +1,69 @@
+﻿@page
+@{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Katra";
+}
+
+<section class="breadcrumb-outer text-center" style="background: url(../images/slider/s4.jpg); background-position:center;background-position-x: right;">
+    <div class="container">
+        <div class="breadcrumb-content">
+            <h2>@ViewData["Title"]</h2>
+            <nav aria-label="breadcrumb">
+                <ul class="breadcrumb justify-content-center">
+                    <li class="breadcrumb-item"><a href="/">Home</a></li>
+                    <li class="breadcrumb-item"><a href="/hotels">Hotels</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">@ViewData["Title"]</li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div class="section-overlay"></div>
+</section>
+
+
+<section class="popular-packages pad-bottom-80 mt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div class="package-item">
+                    <img src="~/images/hotels/katra/kantainterrnational.jpg" style="height: 196px;" alt="HOTEL ANURAG">
+                    <div class="package-content">
+                        <h3><a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom">HOTEL ANURAG</a></h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="package-item">
+                    <img src="~/images/hotels/katra/evokelife.jpg" style="height: 196px;" alt="EVOKE LIFE STYLE">
+                    <div class="package-content">
+                        <h3><a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom">EVOKE LIFE STYLE</a></h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="package-item">
+                    <img src="~/images/hotels/katra/devigrand.jpg" style="height: 196px;" alt="HOTEL DEVI GRAND">
+                    <div class="package-content">
+                        <h3><a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom">HOTEL DEVI GRAND</a></h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="package-item">
+                    <img src="~/images/hotels/katra/newashyana.jpg" style="height: 196px;" alt="HOTEL NEW">
+                    <div class="package-content">
+                        <h3><a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom">HOTEL NEW</a></h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="package-item">
+                    <img src="~/images/hotels/katra/atulRegency.jpg" style="height: 196px;" alt="ATUL REGENCY">
+                    <div class="package-content">
+                        <h3><a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom">ATUL REGENCY</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

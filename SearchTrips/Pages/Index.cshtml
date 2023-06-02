@@ -1,0 +1,1064 @@
+﻿@page
+@{
+    ViewData["Title"]="Home";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Search Trip</title>
+    <link rel="shortcut icon" type="image/x-icon" href="images/icons/favicon.png">
+
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+    <link href="~/css/style.css" rel="stylesheet" type="text/css">
+
+    <link href="~/font/flaticon.css" rel="stylesheet" type="text/css">
+    <link href="~/css/plugin.css" rel="stylesheet" type="text/css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+
+
+    <style>
+        .wtsapChat {
+            position: fixed;
+            right: 40px;
+            bottom: 70px;
+            z-index: 1025;
+            width: 50px;
+        }
+  
+        .bottom-btns {
+            position: fixed;
+            bottom: 0px;
+            width: 100%;
+            z-index: 10;
+        }
+
+        @@media (min-width: 768px) {
+            .d-md-none {
+                display: none !important;
+            }
+        }
+
+
+        .login-box {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 400px;
+            padding: 40px;
+            transform: translate(-50%, -50%);
+            background: rgba(0,0,0,.5);
+            box-sizing: border-box;
+            box-shadow: 0 15px 25px rgba(0,0,0,.6);
+            border-radius: 10px;
+        }
+
+            .login-box h2 {
+                margin: 0 0 30px;
+                padding: 0;
+                color: #fff;
+                text-align: center;
+            }
+
+            .login-box .user-box {
+                position: relative;
+            }
+
+                .login-box .user-box input {
+                    width: 100%;
+                    padding: 10px 0;
+                    font-size: 16px;
+                    color: #fff;
+                    margin-bottom: 30px;
+                    border: none;
+                    border-bottom: 1px solid #fff;
+                    outline: none;
+                    background: transparent;
+                }
+
+                .login-box .user-box label {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    padding: 10px 0;
+                    font-size: 16px;
+                    color: #fff;
+                    pointer-events: none;
+                    transition: .5s;
+                }
+
+                .login-box .user-box input:focus ~ label,
+                .login-box .user-box input:valid ~ label {
+                    top: -20px;
+                    left: 0;
+                    color: #03e9f4;
+                    font-size: 12px;
+                }
+
+            .login-box form a {
+                position: relative;
+                display: inline-block;
+                padding: 10px 20px;
+                color: #03e9f4;
+                font-size: 16px;
+                text-decoration: none;
+                text-transform: uppercase;
+                overflow: hidden;
+                transition: .5s;
+                margin-top: 40px;
+                letter-spacing: 4px
+            }
+
+            .login-box a:hover {
+                background: #03e9f4;
+                color: #fff;
+                border-radius: 5px;
+                box-shadow: 0 0 5px #03e9f4, 0 0 25px #03e9f4, 0 0 50px #03e9f4, 0 0 100px #03e9f4;
+            }
+
+            .login-box a span {
+                position: absolute;
+                display: block;
+            }
+
+                .login-box a span:nth-child(1) {
+                    top: 0;
+                    left: -100%;
+                    width: 100%;
+                    height: 2px;
+                    background: linear-gradient(90deg, transparent, #03e9f4);
+                    animation: btn-anim1 1s linear infinite;
+                }
+
+        @@keyframes btn-anim1 {
+            0% {
+                left: -100%;
+            }
+
+            50%, 100% {
+                left: 100%;
+            }
+        }
+
+        .login-box a span:nth-child(2) {
+            top: -100%;
+            right: 0;
+            width: 2px;
+            height: 100%;
+            background: linear-gradient(180deg, transparent, #03e9f4);
+            animation: btn-anim2 1s linear infinite;
+            animation-delay: .25s
+        }
+
+        @@keyframes btn-anim2 {
+            0% {
+                top: -100%;
+            }
+
+            50%, 100% {
+                top: 100%;
+            }
+        }
+
+        .login-box a span:nth-child(3) {
+            bottom: 0;
+            right: -100%;
+            width: 100%;
+            height: 2px;
+            background: linear-gradient(270deg, transparent, #03e9f4);
+            animation: btn-anim3 1s linear infinite;
+            animation-delay: .5s
+        }
+
+        @@keyframes btn-anim3 {
+            0% {
+                right: -100%;
+            }
+
+            50%, 100% {
+                right: 100%;
+            }
+        }
+
+        .login-box a span:nth-child(4) {
+            bottom: -100%;
+            left: 0;
+            width: 2px;
+            height: 100%;
+            background: linear-gradient(360deg, transparent, #03e9f4);
+            animation: btn-anim4 1s linear infinite;
+            animation-delay: .75s
+        }
+
+        @@keyframes btn-anim4 {
+            0% {
+                bottom: -100%;
+            }
+
+            50%, 100% {
+                bottom: 100%;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+    <div id="preloader">
+        <div id="status"></div>
+    </div>
+
+
+    <header>
+        <div class="upper-head clearfix">
+            <div class="container">
+                <div class="contact-info">
+                    <p><i class="flaticon-phone-call"></i> +91 (788)-979-3852   </p>
+                    <p>  <i class="flaticon-mail"></i><a href="mailto:info@searchtrip.co.in" class="__cf_email__" style="color:white">info@searchtrip.co.in</a></p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+    <div class="navigation">
+        <div class="container">
+            <div class="navigation-content">
+                <div class="header_menu">
+
+                    <nav class="navbar navbar-default navbar-sticky-function navbar-arrow">
+                        <div class="logo pull-left">
+                            <a href="/"><img alt="Image" src="~/images/icons/logo.png" class="image-overlay img-fluid" style="width:20%"></a>
+                        </div>
+                        <div id="navbar" class="navbar-nav-wrapper">
+                            <ul class="nav navbar-nav" id="responsive-menu">
+                                <li class="active"><a href="/">Home</a></li>
+                                <li><a href="/About-us">About Us</a></li>
+                                <li><a href="/destinations">Destinations</a></li>
+                                <li><a href="/hotels">Hotels</a></li>
+                                <li><a href="/packs">Packages</a></li>
+                                <li><a href="/Contact-us">Contact Us</a></li>
+
+                            </ul>
+                        </div>
+                        <div id="slicknav-mobile"></div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <section class="swiper-banner">
+        <div class="slider">
+            <div class="swiper-container">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide" style="background-image:url(images/slider/s1.jpg)">
+                        <div class="swiper-content" data-animation="animated fadeInDown">
+                            <h2>Book a ticket & Just Leave</h2>
+                            <h1>Search your next destination</h1>
+                            <a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom" class="btn-blue btn-red">Get Free Quote</a>
+                        </div>
+                    </div>
+                    <div class="swiper-slide" style="background-image:url(images/slider/s2.jpg)">
+                        <div class="swiper-content" data-animation="animated fadeInRight">
+                            <h2>Cost friendly packages on your way</h2>
+                            <h1>We offer you better deals</h1>
+                            <a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom" class="btn-blue btn-red">Enquiry Now</a>
+                        </div>
+                    </div>
+                    <div class="swiper-slide" style="background-image:url(images/slider/s3.jpg)">
+                        <div class="swiper-content" data-animation="animated fadeInUp">
+                            <h2>exciting schemes just a click away</h2>
+                            <h1>Amazing Santorini 7 days tour</h1>
+                            <a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom" class="btn-blue btn-red">Enquiry Now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+            <div class="overlay"></div>
+        </div>
+    </section>
+
+
+    <div class="search-box clearfix">
+        <div class="container">
+            <div class="search-outer">
+                <div class="search-content">
+                 
+                        <div class="row">
+                            <div class="col-lg-3 col-md-12">
+                                <div class="search-title d-flex align-items-center justify-content-between">
+                                    <p>Find Your <span>Holiday</span></p>
+                                <i class="flaticon-sun-umbrella fa fa-umbrella-beach fa-2xl"></i>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6">
+                                <div class="table_item">
+                                    <div class="form-group">
+                                    <label>Name:</label>
+                                    <input type="text" name="full_name" class="form-control" id="txtname" placeholder="Enter full name" required>
+                                    </div>
+                                    <div class="form-group  form-icon">
+                                    <label>Phone:</label>
+                                    <input type="number" name="Phone" class="form-control" id="txtphone" placeholder="Enter Mobile" required>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6">
+                                <div class="table_item">
+                                    <div class="form-group">
+                                    <label>Email:</label>
+                                    <input type="email" name="email" class="form-control" id="txtemail" placeholder="Enter Email" required>
+                                    </div>
+                                    <div class="form-group ">
+                                    <label>Address:</label>
+                                    <input type="text" name="address" class="form-control" id="txtaddress" placeholder="Enter Address" required>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-12">
+                                <div class="table_item table-item-slider">
+                                    <div class="range-slider">
+                                        <div data-min="0" data-max="2000" data-unit="$" data-min-name="min_price" data-max-name="max_price" class="range-slider-ui ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all" aria-disabled="false">
+                                            <span class="min-value">0 $</span>
+                                            <span class="max-value">2000 $</span>
+                                            <div class="ui-slider-range ui-widget-header ui-corner-all" style="left: 0%; width: 100%;"></div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                    <div class="search">
+                                    <a href="Javascript:voiud(0);" id="btn_quote" class="btn-blue btn-red">SEARCH</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                 
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <section class="deals-on-sale">
+        <div class="container">
+            <div class="section-title text-center">
+                <h2>POPULAR PACKAGES</h2>
+                <div class="section-icon">
+                    <i class="flaticon-diamond"></i>
+                </div>
+            </div>
+            <div class="row sale-slider slider-button">
+                <div class="col-md-12">
+                    <div class="sale-item">
+                        <div class="sale-image">
+                            <img src="~/images/home/kashmir.jpg" style="height: 385px;" alt="Image">
+                        </div>
+                        <div class="sale-content">
+                            <div class="sale-review">
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                            </div>
+                            <h3><a href="#">MAGICAL KASHMIR</a></h3>
+                            <p><i class="flaticon-time"></i> 5 days</p>
+                            <p>Srinagar - Pahalgam - Gulmarg - Sonamarg</p>
+                            <a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom" class="btn-blue btn-red">Enquiry Now</a>
+                        </div>
+                        <div class="sale-tag">
+                            <span class="old-price" style="text-decoration: line-through;">₹14,800</span>
+                            <span class="new-price"> ₹12,800</span>
+                        </div>
+                        <div class="sale-overlay"></div>
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <div class="sale-item">
+                        <div class="sale-image">
+                            <img src="~/images/home/katra.png" style="height: 385px;" alt="Image">
+                        </div>
+                        <div class="sale-content">
+                            <div class="sale-review">
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                            </div>
+                            <h3><a href="#">Mata Vaishno Devi</a></h3>
+                            <p><i class="flaticon-time"></i> 4 days</p>
+                            <p>Katra (Vaishno Devi Darshan) - Patnitop</p>
+                            <a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom" class="btn-blue btn-red">Enquiry Now</a>
+                        </div>
+                        <div class="sale-tag">
+                            <span class="old-price" style="text-decoration: line-through;"> ₹10,800</span>
+                            <span class="new-price">  ₹9,800</span>
+                        </div>
+                        <div class="sale-overlay"></div>
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <div class="sale-item">
+                        <div class="sale-image">
+                            <img src="~/images/home/ladakh.jpeg" style="height: 385px;" alt="Image">
+                        </div>
+                        <div class="sale-content">
+                            <div class="sale-review">
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                            </div>
+                            <h3><a href="#">Jewels of Ladakh</a></h3>
+                            <p><i class="flaticon-time"></i> 5 days</p>
+                            <p>Leh - Nubra - Pangong - Sangam valley - Turtuk - Smoriri LakeLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                            <a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom" class="btn-blue btn-red">Enquiry Now</a>
+                        </div>
+                        <div class="sale-tag">
+                            <span class="old-price" style="text-decoration: line-through;"> ₹38,800</span>
+                            <span class="new-price">  ₹34,800</span>
+                        </div>
+                        <div class="sale-overlay"></div>
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <div class="sale-item">
+                        <div class="sale-image">
+                            <img src="~/images/home/packages/kashmir.jpg" style="height: 385px;" alt="Image">
+                        </div>
+                        <div class="sale-content">
+                            <div class="sale-review">
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                            </div>
+                            <h3><a href="#">SCENIC KASHMIR</a></h3>
+                            <p><i class="flaticon-time"></i> 5 days</p>
+                            <p> Sringar - Pahalgam - Gulmarg - Drung - Sonamarg</p>
+                            <a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom" class="btn-blue btn-red">Enquiry Now</a>
+                        </div>
+                        <div class="sale-tag">
+                            <span class="old-price" style="text-decoration: line-through;"> ₹20,800</span>
+                            <span class="new-price">  ₹18,800</span>
+                        </div>
+                        <div class="sale-overlay"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="deals">
+        <div class="container">
+            <div class="section-title section-title-white text-center">
+                <h2>CRACK THE BEST OFFERS ON</h2>
+                <div class="section-icon">
+                    <i class="flaticon-diamond"></i>
+                </div>
+            </div>
+            <div class="deals-outer">
+                <div class="row deals-slider slider-button">
+                    <div class="col-md-3">
+                        <div class="deals-item">
+                            <div class="deals-item-outer">
+                                <div class="deals-image" style="
+    height: 225px;
+">
+                                    <img src="~/images/home/packages/couple-pack.jpeg" alt="Image">
+                                    <span class="deal-price">₹17999</span>
+                                </div>
+                                <div class="deal-content">
+                                    <div class="deal-rating">
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star-o"></span>
+                                        <span class="fa fa-star-o"></span>
+                                    </div>
+                                    <h3>HONEY MOON</h3>
+                                        <p>Honeymoon cake, Bed decoration, Room Decoration, Local Sightseeing, Candle Light Dinner, Bike Ride on demand, Breakfast/Dinner, Pick & Drop, Cabs AC/Non AC</p>
+                                    
+                                    <a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom" class="btn-blue btn-red">Enquiry Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="deals-item">
+                            <div class="deals-item-outer">
+                                <div class="deals-image" style="
+    height: 225px;
+">
+                                    <img src="~/images/home/packages/family-pack.jpg" alt="Image">
+                                    <span class="deal-price">₹4699</span>
+                                </div>
+                                <div class="deal-content">
+                                    <div class="deal-rating">
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star-o"></span>
+                                        <span class="fa fa-star-o"></span>
+                                    </div>
+                                    <h3>
+                                        FAMILY TOUR
+                                    </h3>
+                                    <p>
+                                        Local Sightseeing, Destination Stays, Shikara Ride, Rafting on Demand, Bike Ride on demand, Breakfast/Dinner, Pick & Drop, Cabs AC/Non AC
+                                    </p>
+                                    <a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom" class="btn-blue btn-red">Enquiry Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="deals-item">
+                            <div class="deals-item-outer">
+                                <div class="deals-image" style="
+    height: 225px;
+">
+                                    <img src="~/images/home/packages/group-pack.jpg" alt="Image">
+                                    <span class="deal-price">₹3999</span>
+                                </div>
+                                <div class="deal-content">
+                                    <div class="deal-rating">
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star-o"></span>
+                                        <span class="fa fa-star-o"></span>
+                                    </div>
+                                    <h3>GROUP TOUR</h3>
+                                    <p>Local Sightseeing, Destination Stays, Camping/Treking, Bike Ride on demand, Shikara Ride, Rafting on Demand,Guide on Demand, Breakfast/Dinner, Pick & Drop, Cabs AC/Non AC</p>
+                                    <a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom" class="btn-blue btn-red">Enquiry Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="deals-item">
+                            <div class="deals-item-outer">
+                                <div class="deals-image" style="
+    height: 225px;
+">
+                                    <img src="~/images/home/packages/event-pack.jpg" alt="Image">
+                                    <span class="deal-price">₹5499</span>
+                                </div>
+                                <div class="deal-content">
+                                    <div class="deal-rating">
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star-o"></span>
+                                        <span class="fa fa-star-o"></span>
+                                    </div>
+                                    <h3>EVENT TOURS</h3>
+                                    <p>Event Special Cake, Room Decoration, DJ on Demand, Conference Hall on, Demand, Local Sightseeing, Shikara Ride, Rafting on Demand, Breakfast/Dinner, Pick & Drop, Cabs AC/Non AC</p>
+                                    <a href="Javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom" class="btn-blue btn-red">Enquiry Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section-overlay"></div>
+    </section>
+
+
+    <section id="bucket-list" class="bucket-list">
+        <div class="bucket-icons">
+            <div class="container">
+                <div class="section-title text-center">
+                    <h2>TRENDING NOW</h2>
+                    <div class="section-icon">
+                        <i class="flaticon-diamond"></i>
+                    </div>
+                    <p>Some of the best tour packages that we offer our customers with inclusion of all customized services as per requirement.</p>
+                </div>
+            </div>
+        </div>
+        <div class="bucket-content">
+            <div class="container">
+                <div class="row isotopeContainer">
+                    <div class="col-lg-6 no-padding isotopeSelector cycling wildlife family hiking">
+                        <div class="hovereffect-bucket bucket-item">
+                            <div class="bucket-image"><img src="~/images/home/khyber.jpg" style="height: 109px;" alt="image" class="img-responsive" /></div>
+                            <div class="bucket-item-content">
+                                <h3><a href="javascript:void(0);">KHYBER RESORT</a></h3>
+                                <span>GULMARG </span><span class="old-price"> ₹44,999</span><span>  ₹34,999</span>
+                            </div>
+                        </div>
+                    </div>
+                      <div class="col-lg-6 no-padding isotopeSelector cycling wildlife family hiking">
+                        <div class="hovereffect-bucket bucket-item">
+                            <div class="bucket-image"><img src="~/images/hotels/gulmarg/vintage.jpg" style="height: 109px;" alt="image" class="img-responsive" /></div>
+                            <div class="bucket-item-content">
+                                <h3><a href="javascript:void(0);">VINTAGE</a></h3>
+                                <span>GULMARG </span><span class="old-price">₹16,999 </span><span> ₹13,999</span>
+                            </div>
+                        </div>
+                    </div>
+                      <div class="col-lg-6 no-padding isotopeSelector cycling wildlife family hiking">
+                        <div class="hovereffect-bucket bucket-item">
+                            <div class="bucket-image"><img src="~/images/hotels/pahalgam/HEAVANRESORTS.jpg" style="height: 109px;" alt="image" class="img-responsive" /></div>
+                            <div class="bucket-item-content">
+                                <h3><a href="javascript:void(0);">HEAVEN RESORT</a></h3>
+                                <span>PAHALGHAM </span><span class="old-price"> ₹16,499 </span><span> ₹14,499</span>
+                            </div>
+                        </div>
+                    </div>
+                      <div class="col-lg-6 no-padding isotopeSelector cycling wildlife family hiking">
+                        <div class="hovereffect-bucket bucket-item">
+                            <div class="bucket-image"><img src="~/images/hotels/pahalgam/chinar.jpg" style="height: 109px;" alt="image" class="img-responsive" /></div>
+                            <div class="bucket-item-content">
+                                <h3><a href="javascript:void(0);">CHINAR RESORT</a></h3>
+                                <span>PAHALGHAM </span><span class="old-price"> ₹16,399 </span><span> ₹14,399</span>
+                            </div>
+                        </div>
+                    </div>
+                      <div class="col-lg-6 no-padding isotopeSelector cycling wildlife family hiking">
+                        <div class="hovereffect-bucket bucket-item">
+                            <div class="bucket-image"><img src="~/images/home/orchad.jpg" style="height: 109px;" alt="image" class="img-responsive" /></div>
+                            <div class="bucket-item-content">
+                                <h3><a href="javascript:void(0);">ORCHARD RETREAT</a></h3>
+                                <span>SRINAGAR </span><span class="old-price"> ₹13,999 </span><span> ₹11,999</span>
+                            </div>
+                        </div>
+                    </div>
+                      <div class="col-lg-6 no-padding isotopeSelector cycling wildlife family hiking">
+                        <div class="hovereffect-bucket bucket-item">
+                            <div class="bucket-image"><img src="~/images/hotels/srinagar/sixseason.jpg" style="height: 109px;" alt="image" class="img-responsive" /></div>
+                            <div class="bucket-item-content">
+                                <h3><a href="javascript:void(0);">SIX SEASON</a></h3>
+                                <span>SRINAGAR </span><span class="old-price"> ₹8,999</span><span> ₹5,999</span>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="section-overlay"></div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="top-destinations">
+        <div class="container">
+            <div class="section-title text-center">
+                <h2>Top Visiting Attractions This Month</h2>
+                <div class="section-icon">
+                    <i class="flaticon-diamond"></i>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-4">
+                    <div class="top-destination-item">
+                        <img class="img-responsive" src="~/images/home/packages/ladakh.jpg" style="height: 289px;" alt="Image">
+                        <div class="overlay">
+                            <h2><a href="/destinations/ladakh">LEH - LADAKH</a></h2>
+                            <p>Plan Your Tour to LEH - LADAKH With Us.</p>
+                        </div>
+                    </div>
+                    <div class="top-destination-item">
+                        <img class="img-responsive" src="~/images/home/ladakh.jpeg" style="height: 289px;" alt="Image">
+                        <div class="overlay">
+                            <h2><a href="/destinations/ladakh">PANGONG</a></h2>
+                            <p>Plan Your Tour to PANGONG With Us.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4">
+                    <div class="top-destination-item destination-margin">
+                        <img class="img-responsive" src="~/images/destinations/kashmir/Betaab-valley.jpeg" style="height: 584px;" alt="Image">
+                        <div class="overlay overlay-full">
+                            <h2><a href="/destinations/kashmir">KASHMIR</a></h2>
+                            <p>Plan Your Tour to KASHMIR With Us.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4">
+                    <div class="top-destination-item">
+                        <img class="img-responsive" src="~/images/home/katra.png" style="height: 289px;" alt="Image">
+                        <div class="overlay">
+                            <h2><a href="/destinations/katra">VAISHNO DEVI</a></h2>
+                            <p>Plan Your Tour to VAISHNO DEVI With Us.</p>
+                        </div>
+                    </div>
+                    <div class="top-destination-item">
+                        <img class="img-responsive" src="~/images/headers/jammu.jpeg" style="height: 289px;" alt="Image">
+                        <div class="overlay">
+                            <h2><a href="/destinations/jammu">Jammu</a></h2>
+                            <p>Plan Your Tour to Jammu With Us.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="trip-ad" id="trip-ad">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="trip-ad-content">
+                        <div class="ad-title"> 
+                            <h2>Explore The <span>Kashmir</span></h2>
+                            <h6>3 NIGHTS 4 DAYS </h6>
+                        </div>
+                        <ul>
+                            <li><i class="font-weight-bold">Destinations:</i> Srinagar - Pahalgam - Gulmarg - Sonamarg</li>
+                            <li><i class="font-weight-bold">Accomodations: </i> 2N Srinager Hotel + 1N Srinagar Houseboat</li>
+                            <li><i class="font-weight-bold">Inclusions:</i> Daily Breakfast / Dinner, 1 Hour Shikara Ride, All transfers & Sight Seeing by AC/Non AC Cabs, All Toll taxes, Parking charges, Wifi Services, Fuel Cost, Driver Charges.</li>
+                            <li><i class="font-weight-bold">Cabs Offered:</i> Etios, Swift Desire, Innova, Innova Crysta, Tempo, Mini Bus.</li>
+                            <li><i class="font-weight-bold">Pick & Drop:</i> Srinagar Airport / TRC</li>
+                        </ul>
+                        <div class="trip-ad-btn">
+                            <a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom" class="btn-blue btn-red">GET FREE QUOTE</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="ad-price">
+                        <div class="ad-price-inner">
+                            <span>Starting at <span class="rate">₹11,999</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="popular-packages mt-5">
+        <div class="container">
+            <div class="section-title text-center">
+                <h2>Local Sightseen</h2>
+                <div class="section-icon">
+                    <i class="flaticon-diamond"></i>
+                </div>
+                <p>SOME OF THE BEST PLACES TO EXPLORE.</p>
+            </div>
+            <div class="row package-slider slider-button">
+                <div class="col-lg-4"> 
+                    <div class="package-item">
+                        <div class="package-image">
+                            <img src="~/images/home/kashmir.jpg" style="height: 335px" alt="Image">
+                            <div class="package-price">
+                                <p>Dal Lake</p>
+                            </div>
+                        </div>
+                        <div class="package-content">
+                            
+                            <p>Covering 26 square kilometres, it is the most adorable piece on earth. It is nestled within lush green mountains and offers the most immaculate view of nature in all its splendour. Shikara boat excursions, houseboats, and lake markets are tourist attractions.</p>
+                            <div class="package-info">
+                                <a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom" class="btn-blue btn-red">Enquiry Now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="package-item">
+                        <div class="package-image">
+                            <img src="~/images/destinations/kashmir/Tulip.jpg" style="height: 335px" alt="Image">
+                            <div class="package-price">
+                                <p>Tulip garden</p>
+                            </div>
+                        </div>
+                        <div class="package-content">
+                           
+                            <p>The Indira Gandhi Memorial Tulip Garden, known as the Model Floriculture Center, is located in the foothills of the Zabarwan mountain range in Srinagar. It is Asia’s biggest tulip garden and overlooks the beautiful Dal Lake. Among the 48 types of tulips at the Tulip Garden are roses, daffodils, hyacinths, and iris.</p>
+                            <div class="package-info">
+                                <a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom" class="btn-blue btn-red">Enquiry Now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="package-item">
+                        <div class="package-image">
+                            <img src="~/images/destinations/kashmir/shalimar.jpg" style="height: 335px" alt="Image">
+                            <div class="package-price">
+                                <p>Shalimar Garden</p>
+                            </div>
+                        </div>
+                        <div class="package-content">
+                            
+                            <p>Shalimar Bagh is the largest Mughal Garden in Kashmir valley and thus is one of the most famous tourist attractions in Srinagar.</p>
+                            <div class="package-info">
+                                <a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom" class="btn-blue btn-red">Enquiry Now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="package-item">
+                        <div class="package-image">
+                            <img src="~/images/destinations/kashmir/nishat.jpg" style="height: 335px" alt="Image">
+                            <div class="package-price">
+                             
+                                <p>Nishant Garden</p>
+                            </div>
+                        </div>
+                        <div class="package-content">
+                            <h3></h3>
+                            <p>The second-largest Mughal Garden in Srinagar, Nishat Garden or Garden of Joy was built by Noor Jahan’s brother in 1633.</p>
+                            <div class="package-info">
+                                <a href="javascript:void(0);" data-toggle="modal" data-target="#enquiryfrom" class="btn-blue btn-red">Enquiry Now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="trusted-partners ">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-4">
+                    <div class="partners-title">
+                        <h3>Our <span>Services</span></h3>
+                    </div>
+                </div>
+                <div class="col-md-9 col-sm-8">
+                    <ul class="partners-logo partners-slider">
+                        <li><a href="#"><img src="images/partner1.png" alt="Image"></a></li>
+                        <li><a href="#"><img src="images/partner2.png" alt="Image"></a></li>
+                        <li><a href="#"><img src="images/partner3.png" alt="Image"></a></li>
+                        <li><a href="#"><img src="images/partner4.png" alt="Image"></a></li>
+                        <li><a href="#"><img src="images/partner5.png" alt="Image"></a></li>
+                        <li><a href="#"><img src="images/partner6.png" alt="Image"></a></li>
+                        <li><a href="#"><img src="images/partner1.png" alt="Image"></a></li>
+                        <li><a href="#"><img src="images/partner2.png" alt="Image"></a></li>
+                        <li><a href="#"><img src="images/partner3.png" alt="Image"></a></li>
+                        <li><a href="#"><img src="images/partner4.png" alt="Image"></a></li>
+                        <li><a href="#"><img src="images/partner5.png" alt="Image"></a></li>
+                        <li><a href="#"><img src="images/partner6.png" alt="Image"></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <footer>
+        <div class="footer-upper">
+            <div class="container">
+                <div class="footer-links">
+                    <div class="row">
+                        <div class="col-lg-3">
+                            <div class="footer-about footer-margin">
+                                <div class="about-logo">
+                                    <img src="images/icons/logo.png" class="img-fluid img-responsive" alt="Image">
+                                </div>
+                                <p>Since our origin in 2022, we have served and provided the best tour package to our clients through out the country and globe too.</p>
+                                <div class="about-location">
+                                    <ul>
+                                        <li><i class="flaticon-maps-and-flags" aria-hidden="true"></i> Gulmarg Road Magam Budgam</li>
+                                        <li><i class="flaticon-phone-call"></i> +91 9596096197 </li>
+                                        <li><i class="flaticon-mail"></i> <a href="mailto:info@searchtrip.co.in" class="__cf_email__">info@searchtrip.co.in</a></li>
+                                    </ul>
+                                </div>
+                             @*   <div class="footer-social-links">
+                                    <ul>
+                                        <li class="social-icon"><a href="#"><img src="~/images/icons/fa/facebook.png" style="width: 10%;" /></a></li>
+                                        <li class="social-icon"><a href="#"><img src="~/images/icons/fa/instagram.png" style="width: 10%;" /></a></li>
+                                        <li class="social-icon"><a href="#"><img src="~/images/icons/fa/whatsapp.png" style="width: 10%;" /></a></li>
+                                        <li class="social-icon"><a href="#"><img src="~/images/icons/fa/youtube.png" style="width: 10%;" /></a></li>
+                                    </ul>
+                                </div>*@
+                            </div>
+                        </div>
+                        <div class="col-lg-3">
+                            <div class="footer-links-list footer-margin">
+                                <h3>Quick Links</h3>
+                                <ul>
+                                    <li><a href="/about-us">About Us <i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+                                    <li><a href="/destinations">Destinations <i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+                                    <li><a href="/packs">Packages <i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+                                    <li><a href="/#trip-ad">Current Offer <i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+                                    <li><a href="/#bucket-list">Trending Hotels <i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+                                    <li><a href="/contact-us">Contact us <i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3">
+                            <div class="footer-recent-post footer-margin">
+                                <h3>Usefull Links</h3>
+                                <ul>
+                                    <li><a href="https://www.jammukashmircablecar.com/" target="_blank">GULMARG GONDOLA <i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://online.maavaishnodevi.org/#/login" target="_blank">Maa Vaishno Devi <i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://jksasb.nic.in/" target="_blank">SHRI AMARNATHJI <i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://www.irctc.co.in/nget/" target="_blank">Railways Booking <i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3">
+                            <div class="footer-links-list">
+                                <div class="footer-instagram">
+                                    <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fsearchtripkashmir%3Fmibextid%3DZbWKwL&tabs=timeline&width=340&height=331&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="340" height="331" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="copyright-content">
+                            <p>@DateTime.UtcNow.ToString("yyyy") <i class="fa fa-copyright" aria-hidden="true"></i> Search Trip - Tour And Travels by <a href="https://ubairmir.info/" target="_blank">Ubair Mir</a></p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="payment-content">
+                            <ul>
+                                <li>We Accept</li>
+                                <li>
+                                    <img src="images/payment1.png" alt="Image">
+                                </li>
+                                <li>
+                                    <img src="images/payment2.png" alt="Image">
+                                </li>
+                                <li>
+                                    <img src="images/payment3.png" alt="Image">
+                                </li>
+                                <li>
+                                    <img src="images/payment4.png" alt="Image">
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+    <div class="modal fade" id="enquiryfrom" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document" style="margin-top: 331px">
+            <div class="modal-content">
+                <div class="modal-body login-box">
+
+                    <h2>Quick Enquiry</h2>
+
+
+                    <form>
+                        <div class="user-box">
+                            <input type="text" name="name" id="enqname" required="">
+                            <label>Name</label>
+                        </div>
+                        <div class="user-box">
+                            <input type="text" name="mobile" id="enqphone" required="">
+                            <label>Mobile</label>
+                        </div>
+                        <div class="user-box">
+                            <input type="email" name="email" id="enqemail" required="">
+                            <label>Email</label>
+                        </div>
+                        <div class="user-box">
+                            <input type="text" name="address" multiple rows="6" id="enqaddress" required="">
+                            <label>Address</label>
+                        </div>
+                        <a href="javascript:void(0);" data-dismiss="modal" aria-label="Close" id="model_close">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <i class="fa fa-arrow-left"></i> Close
+                        </a>
+                        <a href="javascript:void(0);" id="btn_enquiry_Click" style="float:right;">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            Submit <i class="fa fa-arrow-up"></i>
+                        </a>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <span class="wtsapChat">
+        <a href="https://api.whatsapp.com/send/?phone=919596096197&text&type=phone_number&app_absent=0" target="_blank">
+            <img src="~/images/icons/whatsapp.png" width="100%" alt="" srcset="">
+        </a>
+    </span>
+
+    <script src="~/js/jquery-3.2.1.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/js/plugin.js"></script>
+    <script src="~/js/main.js"></script>
+    <script src="~/js/preloader.js"></script>
+
+    <!-- sticky header -->
+    <script type="text/javascript">
+
+
+        $(document).ready(function () {
+
+            $("#btn_quote").click(function (e) {
+                e.preventDefault();
+                var name = SafeString($("#txtname").val());
+                var mobile = SafeString($("#txtphone").val());
+                var email = SafeString($("#txtemail").val());
+                var address = SafeString($("#txtaddress").val());
+                var _data = '{"Name":"' + name + '","Mobile":"' + mobile + '","Email":"' + email + '","Address":"' + address + '"}';
+                SendQuotes(_data, "quotes")
+
+            });
+            $("#btn_enquiry_Click").click(function (e) {
+                e.preventDefault();
+                var name = SafeString($("#enqname").val());
+                var mobile = SafeString($("#enqphone").val());
+                var email = SafeString($("#enqemail").val());
+                var address = SafeString($("#enqaddress").val());
+
+                var _data = '{"Name":"' + name + '","Mobile":"' + mobile + '","Email":"' + email + '","Address":"' + address + '"}';
+                SendQuotes(_data, "quotes")
+
+            });
+
+        });
+        function SendQuotes(_data, pass) {
+            $.ajax({
+                url: "/email/" + pass,
+                type: "POST",
+                data: _data,
+                contentType: "application/json; charset=utf-8",
+                success: function (response) {
+                    alert(response);
+                },
+                failure: function (response) {
+                    alert(response);
+
+                }
+            });
+        }
+        function SafeString(str) {
+            return str.replace(/&/g, "&amp;").replace(/>/g, "&gt;").replace(/</g, "&lt;").replace(/"/g, "&quot;");
+        }
+
+    </script>
+</body>
+</html>
