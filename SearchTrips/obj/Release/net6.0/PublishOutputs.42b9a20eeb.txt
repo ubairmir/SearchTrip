@@ -1,0 +1,7 @@
+D:\WorkSpace\SearchTrip\SearchTrips\obj\Release\net6.0\PubTmp\Out\SearchTrips.exe
+D:\WorkSpace\SearchTrip\SearchTrips\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\WorkSpace\SearchTrip\SearchTrips\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\WorkSpace\SearchTrip\SearchTrips\obj\Release\net6.0\PubTmp\Out\SearchTrips.dll
+D:\WorkSpace\SearchTrip\SearchTrips\obj\Release\net6.0\PubTmp\Out\SearchTrips.deps.json
+D:\WorkSpace\SearchTrip\SearchTrips\obj\Release\net6.0\PubTmp\Out\SearchTrips.runtimeconfig.json
+D:\WorkSpace\SearchTrip\SearchTrips\obj\Release\net6.0\PubTmp\Out\SearchTrips.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WorkSpace\\SearchTrips\\SearchTrips.csproj": {}
+    "D:\\WorkSpace\\SearchTrip\\SearchTrips\\SearchTrips.csproj": {}
   },
   "projects": {
-    "D:\\WorkSpace\\SearchTrips\\SearchTrips.csproj": {
+    "D:\\WorkSpace\\SearchTrip\\SearchTrips\\SearchTrips.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkSpace\\SearchTrips\\SearchTrips.csproj",
+        "projectUniqueName": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\SearchTrips.csproj",
         "projectName": "SearchTrips",
-        "projectPath": "D:\\WorkSpace\\SearchTrips\\SearchTrips.csproj",
+        "projectPath": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\SearchTrips.csproj",
         "packagesPath": "C:\\Users\\UbairMir\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkSpace\\SearchTrips\\obj\\",
+        "outputPath": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\UbairMir\\AppData\\Roaming\\NuGet\\NuGet.Config",

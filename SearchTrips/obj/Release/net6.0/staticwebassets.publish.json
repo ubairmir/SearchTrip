@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nA4W9vahYq8kI5+iNfU58fwmHwfVX4H4plq15r2nxHU=",
+  "Hash": "sV9TDt6xX7xaxB4XFBcSzlLlE402WD6R32hKg1jQIwg=",
   "Source": "SearchTrips",
   "BasePath": "_content/SearchTrips",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SearchTrips\\wwwroot",
       "Source": "SearchTrips",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\css\\car.css",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\css\\car.css",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "css/car.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\css\\car.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\css\\dashboard.css",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\css\\dashboard.css",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "css/dashboard.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dashboard.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\css\\flight.css",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\css\\flight.css",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "css/flight.css",
       "AssetKind": "All",
@@ -85,10 +85,27 @@
       "OriginalItemSpec": "wwwroot\\css\\flight.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\css\\hotel.css",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
+      "BasePath": "_content/SearchTrips",
+      "RelativePath": "css/font-awesome.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
+    },
+    {
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\css\\hotel.css",
+      "SourceId": "SearchTrips",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "css/hotel.css",
       "AssetKind": "All",
@@ -102,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\hotel.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\css\\icons.css",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\css\\icons.css",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "css/icons.css",
       "AssetKind": "All",
@@ -119,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\icons.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\css\\plugin.css",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\css\\plugin.css",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "css/plugin.css",
       "AssetKind": "All",
@@ -136,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\plugin.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\css\\style.css",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\css\\style.css",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -153,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\favicon.ico",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\favicon.ico",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -170,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\flaticon.css",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\font\\flaticon.css",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "font/flaticon.css",
       "AssetKind": "All",
@@ -187,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\font\\flaticon.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\Flaticon.eot",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\font\\Flaticon.eot",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "font/Flaticon.eot",
       "AssetKind": "All",
@@ -204,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\font\\Flaticon.eot"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\Flaticon.svg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\font\\Flaticon.svg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "font/Flaticon.svg",
       "AssetKind": "All",
@@ -221,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\font\\Flaticon.svg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\Flaticon.ttf",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\font\\Flaticon.ttf",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "font/Flaticon.ttf",
       "AssetKind": "All",
@@ -238,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\font\\Flaticon.ttf"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\Flaticon.woff",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\font\\Flaticon.woff",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "font/Flaticon.woff",
       "AssetKind": "All",
@@ -255,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\font\\Flaticon.woff"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\Flaticond41d.eot",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\font\\Flaticond41d.eot",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "font/Flaticond41d.eot",
       "AssetKind": "All",
@@ -272,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\font\\Flaticond41d.eot"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\iconsmindca27.eot",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\font\\iconsmindca27.eot",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "font/iconsmindca27.eot",
       "AssetKind": "All",
@@ -289,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\font\\iconsmindca27.eot"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\iconsmindca27.svg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\font\\iconsmindca27.svg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "font/iconsmindca27.svg",
       "AssetKind": "All",
@@ -306,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\font\\iconsmindca27.svg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\iconsmindca27.ttf",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\font\\iconsmindca27.ttf",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "font/iconsmindca27.ttf",
       "AssetKind": "All",
@@ -323,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\font\\iconsmindca27.ttf"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\iconsmindca27.woff",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\font\\iconsmindca27.woff",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "font/iconsmindca27.woff",
       "AssetKind": "All",
@@ -340,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\font\\iconsmindca27.woff"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\iconsmindd41d.eot",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\font\\iconsmindd41d.eot",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "font/iconsmindd41d.eot",
       "AssetKind": "All",
@@ -357,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\font\\iconsmindd41d.eot"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\simple-line-icons.eot\\indexc05f.html",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\font\\simple-line-icons.eot\\indexc05f.html",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "font/simple-line-icons.eot/indexc05f.html",
       "AssetKind": "All",
@@ -374,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\font\\simple-line-icons.eot\\indexc05f.html"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\simple-line-icons.svg\\indexc05f.html",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\font\\simple-line-icons.svg\\indexc05f.html",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "font/simple-line-icons.svg/indexc05f.html",
       "AssetKind": "All",
@@ -391,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\font\\simple-line-icons.svg\\indexc05f.html"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\Simple-Line-Iconsc05f.ttf",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\font\\Simple-Line-Iconsc05f.ttf",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "font/Simple-Line-Iconsc05f.ttf",
       "AssetKind": "All",
@@ -408,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\font\\Simple-Line-Iconsc05f.ttf"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\font\\Simple-Line-Iconsc05f.woff",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\font\\Simple-Line-Iconsc05f.woff",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "font/Simple-Line-Iconsc05f.woff",
       "AssetKind": "All",
@@ -425,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\font\\Simple-Line-Iconsc05f.woff"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\fonts\\fontawesome-webfont.eot\\index.html",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\fonts\\fontawesome-webfont.eot\\index.html",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "fonts/fontawesome-webfont.eot/index.html",
       "AssetKind": "All",
@@ -442,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.eot\\index.html"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\fonts\\fontawesome-webfont.eot\\index5b62.html",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\fonts\\fontawesome-webfont.eot\\index5b62.html",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "fonts/fontawesome-webfont.eot/index5b62.html",
       "AssetKind": "All",
@@ -459,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.eot\\index5b62.html"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\fonts\\fontawesome-webfont.svg\\index5b62.html",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\fonts\\fontawesome-webfont.svg\\index5b62.html",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "fonts/fontawesome-webfont.svg/index5b62.html",
       "AssetKind": "All",
@@ -476,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.svg\\index5b62.html"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\fonts\\fontawesome-webfont.ttf\\index5b62.html",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\fonts\\fontawesome-webfont.ttf\\index5b62.html",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "fonts/fontawesome-webfont.ttf/index5b62.html",
       "AssetKind": "All",
@@ -493,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf\\index5b62.html"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\fonts\\fontawesome-webfont.woff\\index5b62.html",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\fonts\\fontawesome-webfont.woff\\index5b62.html",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "fonts/fontawesome-webfont.woff/index5b62.html",
       "AssetKind": "All",
@@ -510,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff\\index5b62.html"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\fonts\\fontawesome-webfont.woff2\\index5b62.html",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\fonts\\fontawesome-webfont.woff2\\index5b62.html",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "fonts/fontawesome-webfont.woff2/index5b62.html",
       "AssetKind": "All",
@@ -527,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff2\\index5b62.html"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\fonts\\ionicons28b528b5.eot\\index28b5.html",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\fonts\\ionicons28b528b5.eot\\index28b5.html",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "fonts/ionicons28b528b5.eot/index28b5.html",
       "AssetKind": "All",
@@ -544,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\ionicons28b528b5.eot\\index28b5.html"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\fonts\\ionicons28b528b5.svg\\index28b5.html",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\fonts\\ionicons28b528b5.svg\\index28b5.html",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "fonts/ionicons28b528b5.svg/index28b5.html",
       "AssetKind": "All",
@@ -561,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\ionicons28b528b5.svg\\index28b5.html"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\fonts\\ionicons28b528b5.ttf\\index28b5.html",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\fonts\\ionicons28b528b5.ttf\\index28b5.html",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "fonts/ionicons28b528b5.ttf/index28b5.html",
       "AssetKind": "All",
@@ -578,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\ionicons28b528b5.ttf\\index28b5.html"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\fonts\\ionicons28b528b5.woff\\index28b5.html",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\fonts\\ionicons28b528b5.woff\\index28b5.html",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "fonts/ionicons28b528b5.woff/index28b5.html",
       "AssetKind": "All",
@@ -595,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\ionicons28b528b5.woff\\index28b5.html"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\adbg.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\adbg.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/adbg.jpg",
       "AssetKind": "All",
@@ -612,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\adbg.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\bucketbg.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\bucketbg.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/bucketbg.jpg",
       "AssetKind": "All",
@@ -629,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bucketbg.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\dealsbg.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\dealsbg.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/dealsbg.jpg",
       "AssetKind": "All",
@@ -646,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\dealsbg.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Amar-Mahal.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Amar-Mahal.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/jammu/Amar-Mahal.jpeg",
       "AssetKind": "All",
@@ -663,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\jammu\\Amar-Mahal.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Bagh-e-Bahu.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Bagh-e-Bahu.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/jammu/Bagh-e-Bahu.jpg",
       "AssetKind": "All",
@@ -680,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\jammu\\Bagh-e-Bahu.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Bahu-Fort.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Bahu-Fort.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/jammu/Bahu-Fort.jpeg",
       "AssetKind": "All",
@@ -697,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\jammu\\Bahu-Fort.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Dogra-Art-Gallery.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Dogra-Art-Gallery.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/jammu/Dogra-Art-Gallery.jpeg",
       "AssetKind": "All",
@@ -714,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\jammu\\Dogra-Art-Gallery.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Manda-Zoo.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Manda-Zoo.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/jammu/Manda-Zoo.jpeg",
       "AssetKind": "All",
@@ -731,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\jammu\\Manda-Zoo.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Mubarak-Mandi-Palace.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Mubarak-Mandi-Palace.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/jammu/Mubarak-Mandi-Palace.jpeg",
       "AssetKind": "All",
@@ -748,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\jammu\\Mubarak-Mandi-Palace.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Rajender-Park.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Rajender-Park.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/jammu/Rajender-Park.jpeg",
       "AssetKind": "All",
@@ -765,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\jammu\\Rajender-Park.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Rani-Park.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\jammu\\Rani-Park.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/jammu/Rani-Park.jpeg",
       "AssetKind": "All",
@@ -782,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\jammu\\Rani-Park.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\Aharbal.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\Aharbal.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/kashmir/Aharbal.jpeg",
       "AssetKind": "All",
@@ -799,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\kashmir\\Aharbal.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\amarnath.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\amarnath.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/kashmir/amarnath.jpeg",
       "AssetKind": "All",
@@ -816,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\kashmir\\amarnath.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\Betaab-valley.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\Betaab-valley.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/kashmir/Betaab-valley.jpeg",
       "AssetKind": "All",
@@ -833,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\kashmir\\Betaab-valley.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\chashma.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\chashma.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/kashmir/chashma.jpg",
       "AssetKind": "All",
@@ -850,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\kashmir\\chashma.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\dal-lake.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\dal-lake.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/kashmir/dal-lake.jpg",
       "AssetKind": "All",
@@ -867,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\kashmir\\dal-lake.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\Doodpathri.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\Doodpathri.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/kashmir/Doodpathri.jpg",
       "AssetKind": "All",
@@ -884,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\kashmir\\Doodpathri.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\gulmarg.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\gulmarg.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/kashmir/gulmarg.jpg",
       "AssetKind": "All",
@@ -901,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\kashmir\\gulmarg.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\hazratbal.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\hazratbal.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/kashmir/hazratbal.jpg",
       "AssetKind": "All",
@@ -918,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\kashmir\\hazratbal.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\jammu.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\jammu.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/kashmir/jammu.jpeg",
       "AssetKind": "All",
@@ -935,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\kashmir\\jammu.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\Kokernag.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\Kokernag.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/kashmir/Kokernag.jpeg",
       "AssetKind": "All",
@@ -952,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\kashmir\\Kokernag.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\manasbal.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\manasbal.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/kashmir/manasbal.jpg",
       "AssetKind": "All",
@@ -969,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\kashmir\\manasbal.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\nishat.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\nishat.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/kashmir/nishat.jpg",
       "AssetKind": "All",
@@ -986,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\kashmir\\nishat.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\pahalgam.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\pahalgam.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/kashmir/pahalgam.jpg",
       "AssetKind": "All",
@@ -1003,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\kashmir\\pahalgam.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\parimahal.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\parimahal.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/kashmir/parimahal.jpg",
       "AssetKind": "All",
@@ -1020,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\kashmir\\parimahal.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\patnitop.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\patnitop.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/kashmir/patnitop.jpeg",
       "AssetKind": "All",
@@ -1037,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\kashmir\\patnitop.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\shalimar.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\shalimar.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/kashmir/shalimar.jpg",
       "AssetKind": "All",
@@ -1054,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\kashmir\\shalimar.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\Shankaracharya-Temple.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\Shankaracharya-Temple.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/kashmir/Shankaracharya-Temple.jpg",
       "AssetKind": "All",
@@ -1071,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\kashmir\\Shankaracharya-Temple.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\sonmarg.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\sonmarg.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/kashmir/sonmarg.jpg",
       "AssetKind": "All",
@@ -1088,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\kashmir\\sonmarg.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\Tulip.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\kashmir\\Tulip.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/kashmir/Tulip.jpg",
       "AssetKind": "All",
@@ -1105,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\kashmir\\Tulip.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\katra\\BABA-DHANSAR.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\katra\\BABA-DHANSAR.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/katra/BABA-DHANSAR.jpeg",
       "AssetKind": "All",
@@ -1122,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\katra\\BABA-DHANSAR.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\katra\\JHAJJAR-KOTLI.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\katra\\JHAJJAR-KOTLI.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/katra/JHAJJAR-KOTLI.jpeg",
       "AssetKind": "All",
@@ -1139,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\katra\\JHAJJAR-KOTLI.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\katra\\MATA-VAISHNU.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\katra\\MATA-VAISHNU.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/katra/MATA-VAISHNU.jpeg",
       "AssetKind": "All",
@@ -1156,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\katra\\MATA-VAISHNU.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\katra\\NAU-DEVI-CAVE.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\katra\\NAU-DEVI-CAVE.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/katra/NAU-DEVI-CAVE.jpeg",
       "AssetKind": "All",
@@ -1173,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\katra\\NAU-DEVI-CAVE.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\katra\\SHIVKHORI.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\katra\\SHIVKHORI.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/katra/SHIVKHORI.jpeg",
       "AssetKind": "All",
@@ -1190,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\katra\\SHIVKHORI.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\ladakh\\Kargil.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\ladakh\\Kargil.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/ladakh/Kargil.jpeg",
       "AssetKind": "All",
@@ -1207,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\ladakh\\Kargil.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\ladakh\\Khardungla.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\ladakh\\Khardungla.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/ladakh/Khardungla.jpeg",
       "AssetKind": "All",
@@ -1224,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\ladakh\\Khardungla.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\ladakh\\Magnetic.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\ladakh\\Magnetic.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/ladakh/Magnetic.jpeg",
       "AssetKind": "All",
@@ -1241,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\ladakh\\Magnetic.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\ladakh\\Nubra.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\ladakh\\Nubra.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/ladakh/Nubra.jpeg",
       "AssetKind": "All",
@@ -1258,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\ladakh\\Nubra.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\ladakh\\Pangong.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\ladakh\\Pangong.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/ladakh/Pangong.jpeg",
       "AssetKind": "All",
@@ -1275,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\ladakh\\Pangong.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\destinations\\ladakh\\Shanti-Stupa.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\destinations\\ladakh\\Shanti-Stupa.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/destinations/ladakh/Shanti-Stupa.jpeg",
       "AssetKind": "All",
@@ -1292,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\destinations\\ladakh\\Shanti-Stupa.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\About-Us.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\About-Us.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/About-Us.jpg",
       "AssetKind": "All",
@@ -1309,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\About-Us.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\back.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\back.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/back.jpg",
       "AssetKind": "All",
@@ -1326,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\back.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\contact-us.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\contact-us.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/contact-us.jpg",
       "AssetKind": "All",
@@ -1343,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\contact-us.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\gulmarg.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\gulmarg.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/gulmarg.jpeg",
       "AssetKind": "All",
@@ -1360,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\gulmarg.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\dallake.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\hotels\\dallake.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/hotels/dallake.jpg",
       "AssetKind": "All",
@@ -1377,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\hotels\\dallake.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\gulmarg.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\hotels\\gulmarg.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/hotels/gulmarg.jpeg",
       "AssetKind": "All",
@@ -1394,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\hotels\\gulmarg.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\jammu.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\hotels\\jammu.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/hotels/jammu.jpg",
       "AssetKind": "All",
@@ -1411,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\hotels\\jammu.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\katra.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\hotels\\katra.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/hotels/katra.jpeg",
       "AssetKind": "All",
@@ -1428,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\hotels\\katra.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\leh.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\hotels\\leh.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/hotels/leh.jpg",
       "AssetKind": "All",
@@ -1445,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\hotels\\leh.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\nigeen.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\hotels\\nigeen.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/hotels/nigeen.jpeg",
       "AssetKind": "All",
@@ -1462,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\hotels\\nigeen.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\nubra.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\hotels\\nubra.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/hotels/nubra.jpeg",
       "AssetKind": "All",
@@ -1479,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\hotels\\nubra.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\pahalgham.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\hotels\\pahalgham.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/hotels/pahalgham.jpeg",
       "AssetKind": "All",
@@ -1496,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\hotels\\pahalgham.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\pangong.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\hotels\\pangong.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/hotels/pangong.jpg",
       "AssetKind": "All",
@@ -1513,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\hotels\\pangong.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\patnitop.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\hotels\\patnitop.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/hotels/patnitop.jpg",
       "AssetKind": "All",
@@ -1530,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\hotels\\patnitop.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\sonamarg.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\hotels\\sonamarg.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/hotels/sonamarg.jpg",
       "AssetKind": "All",
@@ -1547,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\hotels\\sonamarg.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\hotels\\srinagar.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\hotels\\srinagar.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/hotels/srinagar.jpeg",
       "AssetKind": "All",
@@ -1564,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\hotels\\srinagar.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\houseboat.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\houseboat.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/houseboat.jpeg",
       "AssetKind": "All",
@@ -1581,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\houseboat.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\jammu.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\jammu.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/jammu.jpeg",
       "AssetKind": "All",
@@ -1598,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\jammu.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\katra.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\katra.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/katra.jpg",
       "AssetKind": "All",
@@ -1615,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\katra.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\ladakh.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\ladakh.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/ladakh.jpg",
       "AssetKind": "All",
@@ -1632,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\ladakh.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\packages\\amarnath.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\packages\\amarnath.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/packages/amarnath.jpeg",
       "AssetKind": "All",
@@ -1649,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\packages\\amarnath.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\packages\\jammu.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\packages\\jammu.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/packages/jammu.jpeg",
       "AssetKind": "All",
@@ -1666,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\packages\\jammu.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\packages\\kashmir.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\packages\\kashmir.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/packages/kashmir.jpg",
       "AssetKind": "All",
@@ -1683,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\packages\\kashmir.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\packages\\katra.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\packages\\katra.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/packages/katra.jpeg",
       "AssetKind": "All",
@@ -1700,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\packages\\katra.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\packages\\katra.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\packages\\katra.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/packages/katra.jpg",
       "AssetKind": "All",
@@ -1717,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\packages\\katra.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\packages\\ladakh.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\packages\\ladakh.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/packages/ladakh.jpg",
       "AssetKind": "All",
@@ -1734,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\packages\\ladakh.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\packages\\p.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\packages\\p.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/packages/p.jpeg",
       "AssetKind": "All",
@@ -1751,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\packages\\p.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\packages\\p.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\packages\\p.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/packages/p.jpg",
       "AssetKind": "All",
@@ -1768,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\packages\\p.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\packages\\patnitop.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\packages\\patnitop.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/packages/patnitop.jpeg",
       "AssetKind": "All",
@@ -1785,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\packages\\patnitop.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\pahalgham.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\pahalgham.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/pahalgham.jpeg",
       "AssetKind": "All",
@@ -1802,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\pahalgham.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\patnitop.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\patnitop.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/patnitop.jpeg",
       "AssetKind": "All",
@@ -1819,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\patnitop.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\rahvillas.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\rahvillas.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/rahvillas.jpg",
       "AssetKind": "All",
@@ -1836,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\rahvillas.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\sonamarg.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\sonamarg.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/sonamarg.jpeg",
       "AssetKind": "All",
@@ -1853,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\sonamarg.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\headers\\srinagar.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\headers\\srinagar.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/headers/srinagar.jpeg",
       "AssetKind": "All",
@@ -1870,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\images\\headers\\srinagar.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\amarnath.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\home\\amarnath.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/home/amarnath.jpeg",
       "AssetKind": "All",
@@ -1887,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home\\amarnath.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\kashmir.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\home\\kashmir.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/home/kashmir.jpg",
       "AssetKind": "All",
@@ -1904,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home\\kashmir.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\katra.png",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\home\\katra.png",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/home/katra.png",
       "AssetKind": "All",
@@ -1921,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home\\katra.png"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\khyber.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\home\\khyber.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/home/khyber.jpg",
       "AssetKind": "All",
@@ -1938,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home\\khyber.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\ladakh.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\home\\ladakh.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/home/ladakh.jpeg",
       "AssetKind": "All",
@@ -1955,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home\\ladakh.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\orchad.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\home\\orchad.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/home/orchad.jpg",
       "AssetKind": "All",
@@ -1972,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home\\orchad.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\packages\\couple-pack.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\home\\packages\\couple-pack.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/home/packages/couple-pack.jpeg",
       "AssetKind": "All",
@@ -1989,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home\\packages\\couple-pack.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\packages\\event-pack.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\home\\packages\\event-pack.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/home/packages/event-pack.jpg",
       "AssetKind": "All",
@@ -2006,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home\\packages\\event-pack.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\packages\\family-pack.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\home\\packages\\family-pack.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/home/packages/family-pack.jpg",
       "AssetKind": "All",
@@ -2023,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home\\packages\\family-pack.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\packages\\group-pack.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\home\\packages\\group-pack.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/home/packages/group-pack.jpg",
       "AssetKind": "All",
@@ -2040,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home\\packages\\group-pack.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\packages\\kashmir.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\home\\packages\\kashmir.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/home/packages/kashmir.jpg",
       "AssetKind": "All",
@@ -2057,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home\\packages\\kashmir.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\packages\\ladakh.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\home\\packages\\ladakh.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/home/packages/ladakh.jpg",
       "AssetKind": "All",
@@ -2074,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home\\packages\\ladakh.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\home\\packages\\mataveshnu.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\home\\packages\\mataveshnu.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/home/packages/mataveshnu.jpg",
       "AssetKind": "All",
@@ -2091,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home\\packages\\mataveshnu.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\AminaGroup.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\AminaGroup.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/dallake/AminaGroup.jpg",
       "AssetKind": "All",
@@ -2108,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\dallake\\AminaGroup.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\BulBul.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\BulBul.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/dallake/BulBul.jpg",
       "AssetKind": "All",
@@ -2125,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\dallake\\BulBul.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\Mandalay.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\Mandalay.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/dallake/Mandalay.jpg",
       "AssetKind": "All",
@@ -2142,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\dallake\\Mandalay.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\MonalisaGroup.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\MonalisaGroup.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/dallake/MonalisaGroup.jpg",
       "AssetKind": "All",
@@ -2159,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\dallake\\MonalisaGroup.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\MughalSheraton.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\MughalSheraton.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/dallake/MughalSheraton.jpg",
       "AssetKind": "All",
@@ -2176,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\dallake\\MughalSheraton.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\Plato.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\Plato.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/dallake/Plato.jpg",
       "AssetKind": "All",
@@ -2193,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\dallake\\Plato.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\SWAN-GROUP-HOUSEBOAT.webp",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\SWAN-GROUP-HOUSEBOAT.webp",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/dallake/SWAN-GROUP-HOUSEBOAT.webp",
       "AssetKind": "All",
@@ -2210,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\dallake\\SWAN-GROUP-HOUSEBOAT.webp"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\YoungBombay.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\dallake\\YoungBombay.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/dallake/YoungBombay.jpg",
       "AssetKind": "All",
@@ -2227,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\dallake\\YoungBombay.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\alpineridge.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\alpineridge.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/gulmarg/alpineridge.jpg",
       "AssetKind": "All",
@@ -2244,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\gulmarg\\alpineridge.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\grandmumtaz.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\grandmumtaz.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/gulmarg/grandmumtaz.jpg",
       "AssetKind": "All",
@@ -2261,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\gulmarg\\grandmumtaz.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\heavenresort.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\heavenresort.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/gulmarg/heavenresort.jpg",
       "AssetKind": "All",
@@ -2278,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\gulmarg\\heavenresort.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\hilltop.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\hilltop.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/gulmarg/hilltop.jpg",
       "AssetKind": "All",
@@ -2295,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\gulmarg\\hilltop.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\khaleel.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\khaleel.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/gulmarg/khaleel.jpg",
       "AssetKind": "All",
@@ -2312,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\gulmarg\\khaleel.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\kolahai.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\kolahai.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/gulmarg/kolahai.jpg",
       "AssetKind": "All",
@@ -2329,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\gulmarg\\kolahai.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\mamapalace.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\mamapalace.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/gulmarg/mamapalace.jpg",
       "AssetKind": "All",
@@ -2346,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\gulmarg\\mamapalace.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\Rosewood.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\Rosewood.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/gulmarg/Rosewood.jpg",
       "AssetKind": "All",
@@ -2363,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\gulmarg\\Rosewood.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\royalpark.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\royalpark.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/gulmarg/royalpark.jpg",
       "AssetKind": "All",
@@ -2380,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\gulmarg\\royalpark.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\ShawInn.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\ShawInn.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/gulmarg/ShawInn.jpg",
       "AssetKind": "All",
@@ -2397,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\gulmarg\\ShawInn.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\vintage.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\gulmarg\\vintage.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/gulmarg/vintage.jpg",
       "AssetKind": "All",
@@ -2414,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\gulmarg\\vintage.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\jammu\\Asiaoneearth.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\jammu\\Asiaoneearth.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/jammu/Asiaoneearth.jpg",
       "AssetKind": "All",
@@ -2431,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\jammu\\Asiaoneearth.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\jammu\\Clarksinnexpress.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\jammu\\Clarksinnexpress.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/jammu/Clarksinnexpress.jpg",
       "AssetKind": "All",
@@ -2448,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\jammu\\Clarksinnexpress.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\jammu\\hotelAdityaResidence.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\jammu\\hotelAdityaResidence.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/jammu/hotelAdityaResidence.jpg",
       "AssetKind": "All",
@@ -2465,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\jammu\\hotelAdityaResidence.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\jammu\\hotelRaghunath.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\jammu\\hotelRaghunath.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/jammu/hotelRaghunath.jpg",
       "AssetKind": "All",
@@ -2482,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\jammu\\hotelRaghunath.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\jammu\\hotelsuryaexcellency.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\jammu\\hotelsuryaexcellency.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/jammu/hotelsuryaexcellency.jpg",
       "AssetKind": "All",
@@ -2499,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\jammu\\hotelsuryaexcellency.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\jammu\\NewAshokaDiamond.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\jammu\\NewAshokaDiamond.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/jammu/NewAshokaDiamond.jpg",
       "AssetKind": "All",
@@ -2516,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\jammu\\NewAshokaDiamond.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\katra\\atulRegency.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\katra\\atulRegency.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/katra/atulRegency.jpg",
       "AssetKind": "All",
@@ -2533,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\katra\\atulRegency.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\katra\\devigrand.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\katra\\devigrand.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/katra/devigrand.jpg",
       "AssetKind": "All",
@@ -2550,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\katra\\devigrand.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\katra\\evokelife.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\katra\\evokelife.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/katra/evokelife.jpg",
       "AssetKind": "All",
@@ -2567,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\katra\\evokelife.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\katra\\kantainterrnational.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\katra\\kantainterrnational.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/katra/kantainterrnational.jpg",
       "AssetKind": "All",
@@ -2584,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\katra\\kantainterrnational.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\katra\\katraanurag.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\katra\\katraanurag.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/katra/katraanurag.jpg",
       "AssetKind": "All",
@@ -2601,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\katra\\katraanurag.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\katra\\newashyana.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\katra\\newashyana.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/katra/newashyana.jpg",
       "AssetKind": "All",
@@ -2618,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\katra\\newashyana.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\ladakh\\ladakh2.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\ladakh\\ladakh2.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/ladakh/ladakh2.jpg",
       "AssetKind": "All",
@@ -2635,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\ladakh\\ladakh2.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\ladakh\\ladakh3.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\ladakh\\ladakh3.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/ladakh/ladakh3.jpg",
       "AssetKind": "All",
@@ -2652,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\ladakh\\ladakh3.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\ladakh\\ladakh4.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\ladakh\\ladakh4.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/ladakh/ladakh4.jpg",
       "AssetKind": "All",
@@ -2669,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\ladakh\\ladakh4.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\ladakh\\ladakh6.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\ladakh\\ladakh6.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/ladakh/ladakh6.jpg",
       "AssetKind": "All",
@@ -2686,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\ladakh\\ladakh6.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\ladakh\\ladakh7.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\ladakh\\ladakh7.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/ladakh/ladakh7.jpg",
       "AssetKind": "All",
@@ -2703,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\ladakh\\ladakh7.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\nigeenlake\\Gurkha.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\nigeenlake\\Gurkha.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/nigeenlake/Gurkha.jpg",
       "AssetKind": "All",
@@ -2720,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\nigeenlake\\Gurkha.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\nigeenlake\\Khilona-Heritage.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\nigeenlake\\Khilona-Heritage.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/nigeenlake/Khilona-Heritage.jpeg",
       "AssetKind": "All",
@@ -2737,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\nigeenlake\\Khilona-Heritage.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\nigeenlake\\Monarch.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\nigeenlake\\Monarch.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/nigeenlake/Monarch.jpeg",
       "AssetKind": "All",
@@ -2754,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\nigeenlake\\Monarch.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\nigeenlake\\New-Jacquline.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\nigeenlake\\New-Jacquline.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/nigeenlake/New-Jacquline.jpg",
       "AssetKind": "All",
@@ -2771,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\nigeenlake\\New-Jacquline.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\nigeenlake\\Peacock.webp",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\nigeenlake\\Peacock.webp",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/nigeenlake/Peacock.webp",
       "AssetKind": "All",
@@ -2788,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\nigeenlake\\Peacock.webp"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\nigeenlake\\Wangnoo-Sheraton.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\nigeenlake\\Wangnoo-Sheraton.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/nigeenlake/Wangnoo-Sheraton.jpeg",
       "AssetKind": "All",
@@ -2805,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\nigeenlake\\Wangnoo-Sheraton.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\nubra\\Hotel-HillCrest.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\nubra\\Hotel-HillCrest.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/nubra/Hotel-HillCrest.jpg",
       "AssetKind": "All",
@@ -2822,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\nubra\\Hotel-HillCrest.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\nubra\\Hotel-Karma-Inn.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\nubra\\Hotel-Karma-Inn.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/nubra/Hotel-Karma-Inn.jpeg",
       "AssetKind": "All",
@@ -2839,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\nubra\\Hotel-Karma-Inn.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\nubra\\Hotel-Nubra-Residency.png",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\nubra\\Hotel-Nubra-Residency.png",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/nubra/Hotel-Nubra-Residency.png",
       "AssetKind": "All",
@@ -2856,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\nubra\\Hotel-Nubra-Residency.png"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\nubra\\The-Kyagar.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\nubra\\The-Kyagar.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/nubra/The-Kyagar.jpeg",
       "AssetKind": "All",
@@ -2873,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\nubra\\The-Kyagar.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\nubra\\The-wooden-nest-hunder.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\nubra\\The-wooden-nest-hunder.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/nubra/The-wooden-nest-hunder.jpeg",
       "AssetKind": "All",
@@ -2890,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\nubra\\The-wooden-nest-hunder.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\chinar.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\chinar.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/pahalgam/chinar.jpg",
       "AssetKind": "All",
@@ -2907,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\pahalgam\\chinar.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\EDENPAHALGAM.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\EDENPAHALGAM.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/pahalgam/EDENPAHALGAM.jpg",
       "AssetKind": "All",
@@ -2924,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\pahalgam\\EDENPAHALGAM.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\FLYINGBIRD.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\FLYINGBIRD.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/pahalgam/FLYINGBIRD.jpg",
       "AssetKind": "All",
@@ -2941,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\pahalgam\\FLYINGBIRD.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\GREENHEIGHTS.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\GREENHEIGHTS.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/pahalgam/GREENHEIGHTS.jpg",
       "AssetKind": "All",
@@ -2958,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\pahalgam\\GREENHEIGHTS.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\HEAVANRESORTS.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\HEAVANRESORTS.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/pahalgam/HEAVANRESORTS.jpg",
       "AssetKind": "All",
@@ -2975,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\pahalgam\\HEAVANRESORTS.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\HERMITAGE.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\HERMITAGE.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/pahalgam/HERMITAGE.jpg",
       "AssetKind": "All",
@@ -2992,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\pahalgam\\HERMITAGE.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\HILTOP.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\HILTOP.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/pahalgam/HILTOP.jpg",
       "AssetKind": "All",
@@ -3009,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\pahalgam\\HILTOP.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\HOME2.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\HOME2.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/pahalgam/HOME2.jpg",
       "AssetKind": "All",
@@ -3026,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\pahalgam\\HOME2.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\kolihighgereen.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\kolihighgereen.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/pahalgam/kolihighgereen.jpg",
       "AssetKind": "All",
@@ -3043,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\pahalgam\\kolihighgereen.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\MOONVIEWRESORTS.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\MOONVIEWRESORTS.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/pahalgam/MOONVIEWRESORTS.jpg",
       "AssetKind": "All",
@@ -3060,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\pahalgam\\MOONVIEWRESORTS.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\PINES.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\PINES.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/pahalgam/PINES.jpg",
       "AssetKind": "All",
@@ -3077,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\pahalgam\\PINES.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\RIVERVIEWRESORTS.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\RIVERVIEWRESORTS.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/pahalgam/RIVERVIEWRESORTS.jpg",
       "AssetKind": "All",
@@ -3094,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\pahalgam\\RIVERVIEWRESORTS.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\ROYALHILTON.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\ROYALHILTON.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/pahalgam/ROYALHILTON.jpg",
       "AssetKind": "All",
@@ -3111,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\pahalgam\\ROYALHILTON.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\SRICHANRESORTS.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\SRICHANRESORTS.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/pahalgam/SRICHANRESORTS.jpg",
       "AssetKind": "All",
@@ -3128,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\pahalgam\\SRICHANRESORTS.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\WILDFLOWER.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\pahalgam\\WILDFLOWER.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/pahalgam/WILDFLOWER.jpg",
       "AssetKind": "All",
@@ -3145,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\pahalgam\\WILDFLOWER.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pangong\\Hotel-Pangong-Residency.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\pangong\\Hotel-Pangong-Residency.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/pangong/Hotel-Pangong-Residency.jpeg",
       "AssetKind": "All",
@@ -3162,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\pangong\\Hotel-Pangong-Residency.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pangong\\Pangong-Gongma-Residency.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\pangong\\Pangong-Gongma-Residency.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/pangong/Pangong-Gongma-Residency.jpg",
       "AssetKind": "All",
@@ -3179,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\pangong\\Pangong-Gongma-Residency.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pangong\\The-Horizon-Pangong.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\pangong\\The-Horizon-Pangong.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/pangong/The-Horizon-Pangong.jpg",
       "AssetKind": "All",
@@ -3196,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\pangong\\The-Horizon-Pangong.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pangong\\The-Merak-Pangong.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\pangong\\The-Merak-Pangong.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/pangong/The-Merak-Pangong.jpeg",
       "AssetKind": "All",
@@ -3213,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\pangong\\The-Merak-Pangong.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\pangong\\Wilderness-Retreat.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\pangong\\Wilderness-Retreat.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/pangong/Wilderness-Retreat.jpeg",
       "AssetKind": "All",
@@ -3230,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\pangong\\Wilderness-Retreat.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\patnitop\\Akash.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\patnitop\\Akash.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/patnitop/Akash.jpg",
       "AssetKind": "All",
@@ -3247,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\patnitop\\Akash.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\patnitop\\Dreamland.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\patnitop\\Dreamland.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/patnitop/Dreamland.jpg",
       "AssetKind": "All",
@@ -3264,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\patnitop\\Dreamland.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\patnitop\\Krystal.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\patnitop\\Krystal.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/patnitop/Krystal.jpg",
       "AssetKind": "All",
@@ -3281,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\patnitop\\Krystal.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\patnitop\\OneEarthHeritage.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\patnitop\\OneEarthHeritage.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/patnitop/OneEarthHeritage.jpg",
       "AssetKind": "All",
@@ -3298,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\patnitop\\OneEarthHeritage.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\patnitop\\StayApart.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\patnitop\\StayApart.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/patnitop/StayApart.jpg",
       "AssetKind": "All",
@@ -3315,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\patnitop\\StayApart.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\patnitop\\Vardhanhotel.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\patnitop\\Vardhanhotel.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/patnitop/Vardhanhotel.jpg",
       "AssetKind": "All",
@@ -3332,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\patnitop\\Vardhanhotel.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\sonamarg\\countryinn.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\sonamarg\\countryinn.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/sonamarg/countryinn.jpg",
       "AssetKind": "All",
@@ -3349,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\sonamarg\\countryinn.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\sonamarg\\divineinn.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\sonamarg\\divineinn.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/sonamarg/divineinn.jpg",
       "AssetKind": "All",
@@ -3366,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\sonamarg\\divineinn.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\sonamarg\\glacierheights.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\sonamarg\\glacierheights.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/sonamarg/glacierheights.jpg",
       "AssetKind": "All",
@@ -3383,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\sonamarg\\glacierheights.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\sonamarg\\greenkohinoor.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\sonamarg\\greenkohinoor.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/sonamarg/greenkohinoor.jpg",
       "AssetKind": "All",
@@ -3400,10 +3417,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\sonamarg\\greenkohinoor.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\sonamarg\\hotelakbar.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\sonamarg\\hotelakbar.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/sonamarg/hotelakbar.jpg",
       "AssetKind": "All",
@@ -3417,10 +3434,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\sonamarg\\hotelakbar.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\sonamarg\\namrose.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\sonamarg\\namrose.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/sonamarg/namrose.jpg",
       "AssetKind": "All",
@@ -3434,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\sonamarg\\namrose.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\sonamarg\\rahvillas.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\sonamarg\\rahvillas.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/sonamarg/rahvillas.jpg",
       "AssetKind": "All",
@@ -3451,10 +3468,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\sonamarg\\rahvillas.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\ADLIFELUXURY.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\ADLIFELUXURY.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/srinagar/ADLIFELUXURY.jpg",
       "AssetKind": "All",
@@ -3468,10 +3485,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\srinagar\\ADLIFELUXURY.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\asainpark.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\asainpark.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/srinagar/asainpark.jpg",
       "AssetKind": "All",
@@ -3485,10 +3502,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\srinagar\\asainpark.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\CITYGRACE.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\CITYGRACE.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/srinagar/CITYGRACE.jpg",
       "AssetKind": "All",
@@ -3502,10 +3519,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\srinagar\\CITYGRACE.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\grandkaiser.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\grandkaiser.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/srinagar/grandkaiser.jpg",
       "AssetKind": "All",
@@ -3519,10 +3536,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\srinagar\\grandkaiser.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\heritageluxury.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\heritageluxury.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/srinagar/heritageluxury.jpg",
       "AssetKind": "All",
@@ -3536,10 +3553,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\srinagar\\heritageluxury.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\K28INN.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\K28INN.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/srinagar/K28INN.jpg",
       "AssetKind": "All",
@@ -3553,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\srinagar\\K28INN.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\palmspring.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\palmspring.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/srinagar/palmspring.jpg",
       "AssetKind": "All",
@@ -3570,10 +3587,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\srinagar\\palmspring.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\RosePetalSrinagar.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\RosePetalSrinagar.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/srinagar/RosePetalSrinagar.jpg",
       "AssetKind": "All",
@@ -3587,10 +3604,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\srinagar\\RosePetalSrinagar.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\ROYALBATAO.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\ROYALBATAO.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/srinagar/ROYALBATAO.jpg",
       "AssetKind": "All",
@@ -3604,10 +3621,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\srinagar\\ROYALBATAO.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\sixseason.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\sixseason.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/srinagar/sixseason.jpg",
       "AssetKind": "All",
@@ -3621,10 +3638,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\srinagar\\sixseason.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\SUNSHINE.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\SUNSHINE.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/srinagar/SUNSHINE.jpg",
       "AssetKind": "All",
@@ -3638,10 +3655,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\srinagar\\SUNSHINE.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\THEVALLEYVIEW.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\hotels\\srinagar\\THEVALLEYVIEW.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/hotels/srinagar/THEVALLEYVIEW.jpg",
       "AssetKind": "All",
@@ -3655,10 +3672,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hotels\\srinagar\\THEVALLEYVIEW.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\icons\\fa\\facebook.png",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\icons\\fa\\facebook.png",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/icons/fa/facebook.png",
       "AssetKind": "All",
@@ -3672,10 +3689,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\fa\\facebook.png"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\icons\\fa\\instagram.png",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\icons\\fa\\instagram.png",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/icons/fa/instagram.png",
       "AssetKind": "All",
@@ -3689,10 +3706,27 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\fa\\instagram.png"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\icons\\fa\\whatsapp.png",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\icons\\fa\\twitter.png",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
+      "BasePath": "_content/SearchTrips",
+      "RelativePath": "images/icons/fa/twitter.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\fa\\twitter.png"
+    },
+    {
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\icons\\fa\\whatsapp.png",
+      "SourceId": "SearchTrips",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/icons/fa/whatsapp.png",
       "AssetKind": "All",
@@ -3706,10 +3740,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\fa\\whatsapp.png"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\icons\\fa\\youtube.png",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\icons\\fa\\youtube.png",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/icons/fa/youtube.png",
       "AssetKind": "All",
@@ -3723,10 +3757,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\fa\\youtube.png"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\icons\\favicon.png",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\icons\\favicon.png",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/icons/favicon.png",
       "AssetKind": "All",
@@ -3740,10 +3774,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\favicon.png"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\icons\\logo.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\icons\\logo.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/icons/logo.jpg",
       "AssetKind": "All",
@@ -3757,10 +3791,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\logo.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\icons\\logo.png",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\icons\\logo.png",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/icons/logo.png",
       "AssetKind": "All",
@@ -3774,10 +3808,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\logo.png"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\icons\\whatsapp.png",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\icons\\whatsapp.png",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/icons/whatsapp.png",
       "AssetKind": "All",
@@ -3791,10 +3825,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\whatsapp.png"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\insta1.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\insta1.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/insta1.jpg",
       "AssetKind": "All",
@@ -3808,10 +3842,10 @@
       "OriginalItemSpec": "wwwroot\\images\\insta1.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\insta3.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\insta3.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/insta3.jpg",
       "AssetKind": "All",
@@ -3825,10 +3859,10 @@
       "OriginalItemSpec": "wwwroot\\images\\insta3.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\insta4.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\insta4.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/insta4.jpg",
       "AssetKind": "All",
@@ -3842,10 +3876,10 @@
       "OriginalItemSpec": "wwwroot\\images\\insta4.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\insta5.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\insta5.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/insta5.jpg",
       "AssetKind": "All",
@@ -3859,10 +3893,10 @@
       "OriginalItemSpec": "wwwroot\\images\\insta5.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\insta6.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\insta6.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/insta6.jpg",
       "AssetKind": "All",
@@ -3876,10 +3910,10 @@
       "OriginalItemSpec": "wwwroot\\images\\insta6.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\insta7.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\insta7.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/insta7.jpg",
       "AssetKind": "All",
@@ -3893,10 +3927,10 @@
       "OriginalItemSpec": "wwwroot\\images\\insta7.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\insta8.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\insta8.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/insta8.jpg",
       "AssetKind": "All",
@@ -3910,10 +3944,10 @@
       "OriginalItemSpec": "wwwroot\\images\\insta8.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\insta9.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\insta9.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/insta9.jpg",
       "AssetKind": "All",
@@ -3927,10 +3961,10 @@
       "OriginalItemSpec": "wwwroot\\images\\insta9.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\list6.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\list6.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/list6.jpg",
       "AssetKind": "All",
@@ -3944,10 +3978,10 @@
       "OriginalItemSpec": "wwwroot\\images\\list6.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\list7.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\list7.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/list7.jpg",
       "AssetKind": "All",
@@ -3961,10 +3995,10 @@
       "OriginalItemSpec": "wwwroot\\images\\list7.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\loader.gif",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\loader.gif",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/loader.gif",
       "AssetKind": "All",
@@ -3978,10 +4012,10 @@
       "OriginalItemSpec": "wwwroot\\images\\loader.gif"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\mount.png",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\mount.png",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/mount.png",
       "AssetKind": "All",
@@ -3995,10 +4029,10 @@
       "OriginalItemSpec": "wwwroot\\images\\mount.png"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\newssection-bg.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\newssection-bg.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/newssection-bg.jpg",
       "AssetKind": "All",
@@ -4012,10 +4046,10 @@
       "OriginalItemSpec": "wwwroot\\images\\newssection-bg.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\package\\amarnath\\p1-a.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\package\\amarnath\\p1-a.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/package/amarnath/p1-a.jpeg",
       "AssetKind": "All",
@@ -4029,10 +4063,10 @@
       "OriginalItemSpec": "wwwroot\\images\\package\\amarnath\\p1-a.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\package\\amarnath\\p2-a.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\package\\amarnath\\p2-a.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/package/amarnath/p2-a.jpeg",
       "AssetKind": "All",
@@ -4046,10 +4080,10 @@
       "OriginalItemSpec": "wwwroot\\images\\package\\amarnath\\p2-a.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\package\\kashmir\\p1.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\package\\kashmir\\p1.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/package/kashmir/p1.jpeg",
       "AssetKind": "All",
@@ -4063,10 +4097,10 @@
       "OriginalItemSpec": "wwwroot\\images\\package\\kashmir\\p1.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\package\\kashmir\\p2.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\package\\kashmir\\p2.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/package/kashmir/p2.jpg",
       "AssetKind": "All",
@@ -4080,10 +4114,10 @@
       "OriginalItemSpec": "wwwroot\\images\\package\\kashmir\\p2.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\package\\kashmir\\p3.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\package\\kashmir\\p3.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/package/kashmir/p3.jpg",
       "AssetKind": "All",
@@ -4097,10 +4131,10 @@
       "OriginalItemSpec": "wwwroot\\images\\package\\kashmir\\p3.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\package\\kashmir\\p4.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\package\\kashmir\\p4.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/package/kashmir/p4.jpg",
       "AssetKind": "All",
@@ -4114,10 +4148,10 @@
       "OriginalItemSpec": "wwwroot\\images\\package\\kashmir\\p4.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\package\\katra\\p-katra.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\package\\katra\\p-katra.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/package/katra/p-katra.jpeg",
       "AssetKind": "All",
@@ -4131,10 +4165,10 @@
       "OriginalItemSpec": "wwwroot\\images\\package\\katra\\p-katra.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\package\\ladakh\\p1.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\package\\ladakh\\p1.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/package/ladakh/p1.jpg",
       "AssetKind": "All",
@@ -4148,10 +4182,10 @@
       "OriginalItemSpec": "wwwroot\\images\\package\\ladakh\\p1.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\package\\ladakh\\p2.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\package\\ladakh\\p2.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/package/ladakh/p2.jpg",
       "AssetKind": "All",
@@ -4165,10 +4199,10 @@
       "OriginalItemSpec": "wwwroot\\images\\package\\ladakh\\p2.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\package\\ladakh\\p3.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\package\\ladakh\\p3.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/package/ladakh/p3.jpg",
       "AssetKind": "All",
@@ -4182,10 +4216,10 @@
       "OriginalItemSpec": "wwwroot\\images\\package\\ladakh\\p3.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\package\\ladakh\\p4.jpeg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\package\\ladakh\\p4.jpeg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/package/ladakh/p4.jpeg",
       "AssetKind": "All",
@@ -4199,10 +4233,10 @@
       "OriginalItemSpec": "wwwroot\\images\\package\\ladakh\\p4.jpeg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\partner1.png",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\partner1.png",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/partner1.png",
       "AssetKind": "All",
@@ -4216,10 +4250,10 @@
       "OriginalItemSpec": "wwwroot\\images\\partner1.png"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\partner2.png",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\partner2.png",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/partner2.png",
       "AssetKind": "All",
@@ -4233,10 +4267,10 @@
       "OriginalItemSpec": "wwwroot\\images\\partner2.png"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\partner3.png",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\partner3.png",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/partner3.png",
       "AssetKind": "All",
@@ -4250,10 +4284,10 @@
       "OriginalItemSpec": "wwwroot\\images\\partner3.png"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\partner4.png",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\partner4.png",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/partner4.png",
       "AssetKind": "All",
@@ -4267,10 +4301,10 @@
       "OriginalItemSpec": "wwwroot\\images\\partner4.png"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\partner5.png",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\partner5.png",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/partner5.png",
       "AssetKind": "All",
@@ -4284,10 +4318,10 @@
       "OriginalItemSpec": "wwwroot\\images\\partner5.png"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\partner6.png",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\partner6.png",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/partner6.png",
       "AssetKind": "All",
@@ -4301,10 +4335,10 @@
       "OriginalItemSpec": "wwwroot\\images\\partner6.png"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\payment1.png",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\payment1.png",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/payment1.png",
       "AssetKind": "All",
@@ -4318,10 +4352,10 @@
       "OriginalItemSpec": "wwwroot\\images\\payment1.png"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\payment2.png",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\payment2.png",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/payment2.png",
       "AssetKind": "All",
@@ -4335,10 +4369,10 @@
       "OriginalItemSpec": "wwwroot\\images\\payment2.png"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\payment3.png",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\payment3.png",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/payment3.png",
       "AssetKind": "All",
@@ -4352,10 +4386,10 @@
       "OriginalItemSpec": "wwwroot\\images\\payment3.png"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\payment4.png",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\payment4.png",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/payment4.png",
       "AssetKind": "All",
@@ -4369,10 +4403,10 @@
       "OriginalItemSpec": "wwwroot\\images\\payment4.png"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\quote.png",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\quote.png",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/quote.png",
       "AssetKind": "All",
@@ -4386,10 +4420,10 @@
       "OriginalItemSpec": "wwwroot\\images\\quote.png"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\slider\\s1.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\slider\\s1.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/slider/s1.jpg",
       "AssetKind": "All",
@@ -4403,10 +4437,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider\\s1.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\slider\\s2.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\slider\\s2.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/slider/s2.jpg",
       "AssetKind": "All",
@@ -4420,10 +4454,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider\\s2.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\slider\\s3.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\slider\\s3.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/slider/s3.jpg",
       "AssetKind": "All",
@@ -4437,10 +4471,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider\\s3.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\images\\slider\\s4.jpg",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\images\\slider\\s4.jpg",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "images/slider/s4.jpg",
       "AssetKind": "All",
@@ -4454,10 +4488,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider\\s4.jpg"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -4471,10 +4505,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\chart.js",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\js\\chart.js",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "js/chart.js",
       "AssetKind": "All",
@@ -4488,10 +4522,10 @@
       "OriginalItemSpec": "wwwroot\\js\\chart.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\counterup.min.js",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\js\\counterup.min.js",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "js/counterup.min.js",
       "AssetKind": "All",
@@ -4505,10 +4539,10 @@
       "OriginalItemSpec": "wwwroot\\js\\counterup.min.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\custom-accordian.js",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\js\\custom-accordian.js",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "js/custom-accordian.js",
       "AssetKind": "All",
@@ -4522,10 +4556,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom-accordian.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\custom-countdown.js",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\js\\custom-countdown.js",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "js/custom-countdown.js",
       "AssetKind": "All",
@@ -4539,10 +4573,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom-countdown.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\custom-swiper2.js",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\js\\custom-swiper2.js",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "js/custom-swiper2.js",
       "AssetKind": "All",
@@ -4556,10 +4590,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom-swiper2.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\custom-video.js",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\js\\custom-video.js",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "js/custom-video.js",
       "AssetKind": "All",
@@ -4573,10 +4607,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom-video.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\dashboard-custom.js",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\js\\dashboard-custom.js",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "js/dashboard-custom.js",
       "AssetKind": "All",
@@ -4590,10 +4624,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dashboard-custom.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\jpanelmenu.min.js",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\js\\jpanelmenu.min.js",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "js/jpanelmenu.min.js",
       "AssetKind": "All",
@@ -4607,10 +4641,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jpanelmenu.min.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\js\\jquery-3.2.1.min.js",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "js/jquery-3.2.1.min.js",
       "AssetKind": "All",
@@ -4624,10 +4658,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.2.1.min.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\jquery-modal-video.min.js",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\js\\jquery-modal-video.min.js",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "js/jquery-modal-video.min.js",
       "AssetKind": "All",
@@ -4641,10 +4675,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-modal-video.min.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\main.js",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\js\\main.js",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -4658,10 +4692,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\main-1.js",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\js\\main-1.js",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "js/main-1.js",
       "AssetKind": "All",
@@ -4675,10 +4709,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main-1.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\map.js",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\js\\map.js",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "js/map.js",
       "AssetKind": "All",
@@ -4692,10 +4726,10 @@
       "OriginalItemSpec": "wwwroot\\js\\map.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\plugin.js",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\js\\plugin.js",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "js/plugin.js",
       "AssetKind": "All",
@@ -4709,10 +4743,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugin.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\preloader.js",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\js\\preloader.js",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "js/preloader.js",
       "AssetKind": "All",
@@ -4726,10 +4760,10 @@
       "OriginalItemSpec": "wwwroot\\js\\preloader.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\SearchTrips\\wwwroot\\js\\rangeslider.js",
+      "Identity": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\js\\rangeslider.js",
       "SourceId": "SearchTrips",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\SearchTrips\\wwwroot\\",
+      "ContentRoot": "D:\\WorkSpace\\SearchTrip\\SearchTrips\\wwwroot\\",
       "BasePath": "_content/SearchTrips",
       "RelativePath": "js/rangeslider.js",
       "AssetKind": "All",

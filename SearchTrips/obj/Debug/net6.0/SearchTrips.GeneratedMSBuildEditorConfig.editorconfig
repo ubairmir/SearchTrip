@@ -9,121 +9,121 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SearchTrips
 build_property.RootNamespace = SearchTrips
-build_property.ProjectDir = D:\SearchTrip\SearchTrips\
+build_property.ProjectDir = D:\WorkSpace\SearchTrip\SearchTrips\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\SearchTrip\SearchTrips
+build_property.MSBuildProjectDirectory = D:\WorkSpace\SearchTrip\SearchTrips
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/SearchTrip/SearchTrips/Pages/About-us.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/About-us.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQtdXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/Contact-us.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/Contact-us.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC11cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/destinations.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/destinations.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZGVzdGluYXRpb25zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/destinations/jammu.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/destinations/jammu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZGVzdGluYXRpb25zXGphbW11LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/destinations/kashmir.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/destinations/kashmir.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZGVzdGluYXRpb25zXGthc2htaXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/destinations/katra.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/destinations/katra.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZGVzdGluYXRpb25zXGthdHJhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/destinations/ladakh.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/destinations/ladakh.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZGVzdGluYXRpb25zXGxhZGFraC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/hotels.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/hotels.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaG90ZWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/hotels/gulmarg.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/hotels/gulmarg.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaG90ZWxzXGd1bG1hcmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/hotels/houseboat.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/hotels/houseboat.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaG90ZWxzXGhvdXNlYm9hdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/hotels/jammu.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/hotels/jammu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaG90ZWxzXGphbW11LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/hotels/katra.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/hotels/katra.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaG90ZWxzXGthdHJhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/hotels/ladakh.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/hotels/ladakh.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaG90ZWxzXGxhZGFraC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/hotels/pahalgam.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/hotels/pahalgam.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaG90ZWxzXHBhaGFsZ2FtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/hotels/patnitop.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/hotels/patnitop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaG90ZWxzXHBhdG5pdG9wLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/hotels/sonamarg.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/hotels/sonamarg.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaG90ZWxzXHNvbmFtYXJnLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/hotels/srinagar.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/hotels/srinagar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaG90ZWxzXHNyaW5hZ2FyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/Index.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/packs.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/packs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccGFja3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/packs/amarnath.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/packs/amarnath.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccGFja3NcYW1hcm5hdGguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/packs/kashmir.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/packs/kashmir.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccGFja3Nca2FzaG1pci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/packs/katra.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/packs/katra.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccGFja3Nca2F0cmEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/packs/ladakh.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/packs/ladakh.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccGFja3NcbGFkYWtoLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/Privacy.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/Shared/_Layout.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/_ViewImports.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SearchTrip/SearchTrips/Pages/_ViewStart.cshtml]
+[D:/WorkSpace/SearchTrip/SearchTrips/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
